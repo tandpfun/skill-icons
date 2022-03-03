@@ -1,4 +1,4 @@
-const icons = require("./icons.json");
+const icons = require("./dist/icons.json");
 const longNames = {
 	js: "javascript",
 	ts: "typescript",
@@ -6,7 +6,7 @@ const longNames = {
 	py: "python",
 	html: "html",
 	css: "css",
-	tw: "tailwindcss",
+	tailwind: "tailwindcss",
 	vue: "vuejs",
 	nuxt: "nuxtjs",
 	prisma: "prisma",
@@ -15,7 +15,7 @@ const longNames = {
 	go: "golang",
 	rust: "rust",
 	react: "react",
-	cf: "cloudflare",
+	cloudflare: "cloudflare",
 	java: "java",
 	php: "php",
 	ruby: "ruby",
@@ -100,9 +100,9 @@ async function handleRequest(request) {
 
 	const path = pathname.split("/")[1];
 	if (path === "icons" || path === "icons.svg") {
-		const iconParam = searchParams.get("i");
+		const iconParam = searchParams.get("i") || searchParams.get("icons");
 		if (!iconParam) return new Response("No icons specified", { status: 400 });
-		const theme = searchParams.get("t");
+		const theme = searchParams.get("t") || searchParams.get("theme");
 		if (theme && theme !== "dark" && theme !== "light")
 			return new Response("Invalid theme param", { status: 400 });
 		const iconShortNames = iconParam.split(",");
