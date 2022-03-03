@@ -99,6 +99,10 @@ async function handleRequest(request) {
 	const { pathname, searchParams } = new URL(request.url);
 
 	const path = pathname.split("/")[1];
+
+	if (!path)
+		return Response.redirect("https://github.com/tandpfun/skill-icons", 301);
+
 	if (path === "icons" || path === "icons.svg") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
 		if (!iconParam) return new Response("No icons specified", { status: 400 });
