@@ -1,43 +1,21 @@
 const icons = require("./dist/icons.json");
-const longNames = {
+const iconNameList = Object.keys(icons).map((i) => i.split("-")[0]);
+const shortNames = {
 	js: "javascript",
 	ts: "typescript",
-	nodejs: "nodejs",
 	py: "python",
-	html: "html",
-	css: "css",
 	tailwind: "tailwindcss",
 	vue: "vuejs",
 	nuxt: "nuxtjs",
-	prisma: "prisma",
-	docker: "docker",
-	figma: "figma",
 	go: "golang",
-	rust: "rust",
-	react: "react",
-	cloudflare: "cloudflare",
-	java: "java",
-	php: "php",
-	ruby: "ruby",
+	cf: "cloudflare",
 	cs: "C#",
 	cpp: "c++",
 	c: "c",
-	swift: "swift",
-	kotlin: "kotlin",
-	dart: "dart",
 	wasm: "webassembly",
-	mysql: "mysql",
 	postgres: "postgresql",
-	redis: "redis",
-	jquery: "jquery",
-	angular: "angular",
-	svelte: "svelte",
-	git: "git",
 	k8s: "kubernetes",
-	deno: "deno",
-	vim: "vim",
 };
-
 const themedIcons = [
 	"nodejs",
 	"python",
@@ -88,11 +66,15 @@ function generateSvg(iconNames) {
 }
 
 function parseShortNames(names, theme = "dark") {
-	return names.map(
-		(name) =>
-			longNames[name] +
-			(themedIcons.includes(longNames[name]) ? `-${theme}` : "")
-	);
+	return names.map((name) => {
+		if (iconNameList.includes(name))
+			return name + (themedIcons.includes(name) ? `-${theme}` : "");
+		else if (name in shortNames)
+			return (
+				shortNames[name] +
+				(themedIcons.includes(shortNames[name]) ? `-${theme}` : "")
+			);
+	});
 }
 
 async function handleRequest(request) {
