@@ -16,6 +16,7 @@ const shortNames = {
 	postgres: "postgresql",
 	k8s: "kubernetes",
 	next: "nextjs",
+	mongo: "mongodb",
 };
 const themedIcons = [
 	"nodejs",
@@ -36,6 +37,7 @@ const themedIcons = [
 	"angular",
 	"deno",
 	"vim",
+	"grafana",
 ];
 
 const ICONS_PER_LINE = 15;

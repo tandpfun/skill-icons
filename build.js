@@ -7,5 +7,5 @@ for (const icon of iconsDir) {
 	icons[name] = String(fs.readFileSync(`./icons/${icon}`));
 }
 
-fs.mkdirSync("./dist");
+if (!fs.existsSync("./dist")) fs.mkdirSync("./dist");
 fs.writeFileSync("./dist/icons.json", JSON.stringify(icons));
