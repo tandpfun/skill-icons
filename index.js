@@ -15,6 +15,7 @@ const shortNames = {
 	wasm: "webassembly",
 	postgres: "postgresql",
 	k8s: "kubernetes",
+	next: "nextjs",
 };
 const themedIcons = [
 	"nodejs",
@@ -87,13 +88,19 @@ async function handleRequest(request) {
 
 	if (path === "icons" || path === "icons.svg") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
-		if (!iconParam) return new Response("No icons specified", { status: 400 });
+		if (!iconParam)
+			return new Response("You didn't specify any icons!", { status: 400 });
 		const theme = searchParams.get("t") || searchParams.get("theme");
 		if (theme && theme !== "dark" && theme !== "light")
-			return new Response("Invalid theme param", { status: 400 });
+			return new Response('Theme must be either "light" or "dark"', {
+				status: 400,
+			});
 		const iconShortNames = iconParam.split(",");
 		const iconNames = parseShortNames(iconShortNames, theme || undefined);
-		if (!iconNames) return new Response("Invalid icon params", { status: 400 });
+		if (!iconNames)
+			return new Response("You didn't format the icons param correctly!", {
+				status: 400,
+			});
 
 		const svg = generateSvg(iconNames);
 
