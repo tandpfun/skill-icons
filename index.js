@@ -37,6 +37,7 @@ const themedIcons = [
 	"angular",
 	"deno",
 	"vim",
+	"nextjs",
 	"grafana",
 ];
 
