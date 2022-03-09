@@ -1,5 +1,7 @@
 const icons = require("./dist/icons.json");
-const iconNameList = Object.keys(icons).map((i) => i.split("-")[0]);
+const iconNameList = [
+	...new Set(Object.keys(icons).map((i) => i.split("-")[0])),
+];
 const shortNames = {
 	js: "javascript",
 	ts: "typescript",
@@ -50,17 +52,19 @@ const themedIcons = [
 ];
 
 const ICONS_PER_LINE = 15;
-const SVG_WIDTH = 800;
+const ONE_ICON = 48;
+const SCALE = ONE_ICON / (300 - 44);
 
 function generateSvg(iconNames) {
 	const iconSvgList = iconNames.map((i) => icons[i]);
 
-	const length = ICONS_PER_LINE * 300;
+	const length = Math.min(ICONS_PER_LINE * 300, iconNames.length * 300) - 44;
 	const height = Math.ceil(iconSvgList.length / ICONS_PER_LINE) * 300 - 44;
-	const scaledHeight = height * (SVG_WIDTH / length);
+	const scaledHeight = height * SCALE;
+	const scaledWidth = length * SCALE;
 
 	return `
-  <svg width="${SVG_WIDTH}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     ${iconSvgList
 			.map(
 				(i, index) =>
@@ -92,7 +96,7 @@ function parseShortNames(names, theme = "dark") {
 async function handleRequest(request) {
 	const { pathname, searchParams } = new URL(request.url);
 
-	const path = pathname.split("/")[1];
+	const path = pathname.replace(/^\/|\/$/g, "");
 
 	if (!path)
 		return Response.redirect("https://github.com/tandpfun/skill-icons", 301);
@@ -116,6 +120,18 @@ async function handleRequest(request) {
 		const svg = generateSvg(iconNames);
 
 		return new Response(svg, { headers: { "Content-Type": "image/svg+xml" } });
+	} else if (path === "api/icons") {
+		return new Response(JSON.stringify(iconNameList), {
+			headers: {
+				"content-type": "application/json;charset=UTF-8",
+			},
+		});
+	} else if (path === "api/svgs") {
+		return new Response(JSON.stringify(icons), {
+			headers: {
+				"content-type": "application/json;charset=UTF-8",
+			},
+		});
 	} else {
 		return new Response("404: Not Found", { status: 404 });
 	}
