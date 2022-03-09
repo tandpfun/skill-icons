@@ -1,4 +1,5 @@
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Beautiful skills icons for your github readme or profile!</h3>
 <hr>
 
