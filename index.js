@@ -17,6 +17,7 @@ const shortNames = {
 	k8s: "kubernetes",
 	next: "nextjs",
 	mongo: "mongodb",
+	md: "markdown",
 };
 const themedIcons = [
 	"nodejs",
@@ -39,6 +40,13 @@ const themedIcons = [
 	"vim",
 	"nextjs",
 	"grafana",
+	"clojure",
+	"coffeescript",
+	"lua",
+	"markdown",
+	"r",
+	"unity",
+	"zig",
 ];
 
 const ICONS_PER_LINE = 15;
