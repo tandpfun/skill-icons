@@ -11,7 +11,7 @@ const shortNames = {
 	nuxt: "nuxtjs",
 	go: "golang",
 	cf: "cloudflare",
-	cs: "C#",
+	cs: "c#",
 	cpp: "c++",
 	c: "c",
 	wasm: "webassembly",
