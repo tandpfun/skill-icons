@@ -100,7 +100,10 @@ async function handleRequest(request) {
 	const path = pathname.replace(/^\/|\/$/g, "");
 
 	if (!path)
-		return Response.redirect("https://github.com/tandpfun/skill-icons", 301);
+		return Response.redirect(
+			"https://github.com/tandpfun/skill-icons#readme",
+			301
+		);
 
 	if (path === "icons" || path === "icons.svg") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
