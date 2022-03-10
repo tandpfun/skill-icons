@@ -1,11 +1,11 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Beautiful skills icons for your github readme or profile!</h3>
+<h3 align="center">Showcase your skills on your Github or resumé with ease!</h3>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
-# Features
+# Docs
 
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
