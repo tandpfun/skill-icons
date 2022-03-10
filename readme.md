@@ -92,6 +92,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `vim`      |     <img src="./icons/VIM-Dark.svg" width="48">      |
 |     `vue`      |    <img src="./icons/VueJS-Dark.svg" width="48">     |
 |     `wasm`     |    <img src="./icons/WebAssembly.svg" width="48">    |
+|   `workers`    |   <img src="./icons/Workers-Dark.svg" width="48">    |
 |     `zig`      |     <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
