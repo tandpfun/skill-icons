@@ -23,7 +23,6 @@ const shortNames = {
 	ae: "aftereffects",
 	scss: "sass",
 	sc: "scala",
-	dbots: "discordbots",
 };
 const themedIcons = [
 	"nodejs",
