@@ -96,8 +96,6 @@ async function handleRequest(request) {
 
 	const path = pathname.replace(/^\/|\/$/g, "");
 
-	if (!path) return fetch(request);
-
 	if (path === "icons") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
 		if (!iconParam)
@@ -134,7 +132,7 @@ async function handleRequest(request) {
 			},
 		});
 	} else {
-		return new Response("404: Not Found", { status: 404 });
+		return fetch(request);
 	}
 }
 
