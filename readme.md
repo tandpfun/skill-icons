@@ -117,11 +117,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `rails`     |       <img src="./icons/Rails.svg" width="48">       |
 |    `react`     |    <img src="./icons/React-Dark.svg" width="48">     |
 |    `redis`     |    <img src="./icons/Redis-Dark.svg" width="48">     |
+|    `regex`     |    <img src="./icons/Regex-Dark.svg" width="48">     |
 |    `remix`     |    <img src="./icons/Remix.svg" width="48">          |
 |     `ruby`     |       <img src="./icons/Ruby.svg" width="48">        |
 |     `rust`     |       <img src="./icons/Rust.svg" width="48">        |
 |     `sass`     |       <img src="./icons/Sass.svg" width="48">        |
-|    `solidity`  |      <img src="./icons/Solidity.svg" width="48">       |
+|    `solidity`  |      <img src="./icons/Solidity.svg" width="48">     |
 |    `scala`     |      <img src="./icons/Scala-Dark.svg" width="48">   |
 |    `svelte`    |      <img src="./icons/Svelte.svg" width="48">       |
 |    `swift`     |       <img src="./icons/Swift.svg" width="48">       |
