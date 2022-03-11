@@ -59,6 +59,7 @@ const themedIcons = [
 	"haxe",
 	"godot",
 	"scala",
+	"regex",
 ];
 
 const ICONS_PER_LINE = 15;
