@@ -125,7 +125,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `solidity`  |      <img src="./icons/Solidity.svg" width="48">     |
 |    `scala`     |      <img src="./icons/Scala-Dark.svg" width="48">   |
 |    `svelte`    |      <img src="./icons/Svelte.svg" width="48">       |
-|    `svg`       |      <img src="./icons/SVG-dark.svg" width="48">     |
+|    `svg`       |      <img src="./icons/SVG-Dark.svg" width="48">     |
 |    `swift`     |       <img src="./icons/Swift.svg" width="48">       |
 |   `tailwind`   | <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `ts`      |    <img src="./icons/TypeScript.svg" width="48">     |
