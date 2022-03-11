@@ -51,6 +51,7 @@ const themedIcons = [
 	"unity",
 	"zig",
 	"workers",
+	"linux",
 ];
 
 const ICONS_PER_LINE = 15;
