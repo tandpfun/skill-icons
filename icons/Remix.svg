@@ -1,60 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
-   fill="none"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="Remix.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="0.64"
-     inkscape:cx="142.96875"
-     inkscape:cy="167.1875"
-     inkscape:window-width="1211"
-     inkscape:window-height="686"
-     inkscape:window-x="90"
-     inkscape:window-y="730"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <rect
-     width="256"
-     height="256"
-     rx="60"
-     fill="#242938"
-     id="rect2"
-     style="fill:#212121;fill-opacity:1" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 188.14304,168.88576 c 1.36128,17.488 1.36128,25.68576 1.36128,34.63424 h -40.4624 c 0,-1.94912 0.0349,-3.73216 0.0701,-5.54016 0.10944,-5.62048 0.22368,-11.4816 -0.68704,-23.31776 -1.20352,-17.32864 -8.6656,-21.1792 -22.38624,-21.1792 H 113.88256 62.4 v -31.528 h 65.56448 c 17.3312,0 25.99712,-5.27232 25.99712,-19.23136 0,-12.27424 -8.66592,-19.71232 -25.99712,-19.71232 H 62.4 V 52.16 h 72.78592 c 39.23616,0 58.73408,18.53184 58.73408,48.1344 0,22.14176 -13.72064,36.58208 -32.25568,38.9888 15.6464,3.12864 24.7936,12.0336 26.47872,29.60256 z"
-     fill="#ffffff"
-     id="path841"
-     style="stroke-width:0.32" />
-  <path
-     d="m 62.4,203.52 v -23.50304 h 42.78304 c 7.14624,0 8.69792,5.30016 8.69792,8.46112 V 203.52 Z"
-     fill="#ffffff"
-     id="path843"
-     style="stroke-width:0.32" />
-  <path
-     d="m 62.24,203.52 v 0.16 h 0.16 51.48096 0.16 v -0.16 -15.04192 c 0,-1.60192 -0.39232,-3.75488 -1.7008,-5.51168 -1.31456,-1.7648 -3.53888,-3.10944 -7.15712,-3.10944 H 62.4 62.24 v 0.16 z"
-     stroke="#ffffff"
-     stroke-opacity="0.8"
-     id="path845"
-     style="fill:none;stroke-width:0.32" />
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.903 168.726C189.264 186.214 189.264 194.412 189.264 203.36H148.802C148.802 201.411 148.837 199.628 148.872 197.82C148.981 192.199 149.096 186.338 148.185 174.502C146.981 157.173 139.519 153.323 125.799 153.323H113.643H62.16V121.795H127.724C145.056 121.795 153.722 116.523 153.722 102.564C153.722 90.2893 145.056 82.8512 127.724 82.8512H62.16V52H134.946C174.182 52 193.68 70.5318 193.68 100.134C193.68 122.276 179.959 136.716 161.424 139.123C177.071 142.252 186.218 151.157 187.903 168.726V168.726Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.903 168.726C189.264 186.214 189.264 194.412 189.264 203.36H148.802C148.802 201.411 148.837 199.628 148.872 197.82C148.981 192.199 149.096 186.338 148.185 174.502C146.981 157.173 139.519 153.323 125.799 153.323H113.643H62.16V121.795H127.724C145.056 121.795 153.722 116.523 153.722 102.564C153.722 90.2893 145.056 82.8512 127.724 82.8512H62.16V52H134.946C174.182 52 193.68 70.5318 193.68 100.134C193.68 122.276 179.959 136.716 161.424 139.123C177.071 142.252 186.218 151.157 187.903 168.726V168.726Z" fill="white"/>
+<path d="M62.16 203.36V179.857H104.943C112.089 179.857 113.641 185.157 113.641 188.318V203.36H62.16Z" fill="white"/>
+<path d="M62 203.36V203.52H62.16H113.641H113.801V203.36V188.318C113.801 186.716 113.409 184.563 112.1 182.806C110.786 181.041 108.561 179.697 104.943 179.697H62.16H62V179.857V203.36Z" stroke="white" stroke-opacity="0.8" stroke-width="0.32"/>
 </svg>

@@ -1,97 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
-   fill="none"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="Haxe-Dark.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="155.23204"
-     inkscape:cy="183.40582"
-     inkscape:window-width="1211"
-     inkscape:window-height="686"
-     inkscape:window-x="90"
-     inkscape:window-y="730"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <rect
-     width="256"
-     height="256"
-     rx="60"
-     fill="#242938"
-     id="rect2" />
-  <g
-     transform="matrix(0.14385132,0,0,-0.14385578,40,285.30762)"
-     id="g1646">
-    <path
-       d="M 625.646,1548.821 269.3,1588.285 0,1705.233 H 312.812 L 625.646,1548.8"
-       fill="#fbc707"
-       id="path1620" />
-    <path
-       d="m 625.646,1548.821 364.507,31.304 261.139,125.108 H 938.458 L 625.646,1548.8"
-       fill="#fbc707"
-       id="path1622" />
-    <path
-       d="M 625.646,610.373 965.671,598.132 1251.292,453.961 H 938.458 L 625.646,610.4"
-       fill="#f68712"
-       id="path1624" />
-    <path
-       d="M 625.646,610.373 H 282.901 L 0,453.962 H 312.812 L 625.646,610.4"
-       fill="#f25c19"
-       id="path1626" />
-    <path
-       d="M 156.406,1079.592 V 750.464 L 0,453.962 V 766.774 L 156.406,1079.6"
-       fill="#fff200"
-       id="path1628" />
-    <path
-       d="M 156.406,1079.592 130.569,1406.032 0,1705.233 v -312.81 L 156.406,1079.6"
-       fill="#fff200"
-       id="path1630" />
-    <path
-       d="m 1094.859,1079.592 34.024,342.761 122.409,282.88 v -312.81 L 1094.859,1079.6"
-       fill="#f1471d"
-       id="path1632" />
-    <path
-       d="m 1094.859,1079.592 28.583,-367.211 127.849,-258.419 V 766.774 L 1094.859,1079.6"
-       fill="#f1471d"
-       id="path1634" />
-    <path
-       d="M 0,1705.233 625.646,1548.821 524.999,1150.333 156.406,1079.592 0,1705.2"
-       fill="#fab20b"
-       id="path1636" />
-    <path
-       d="m 1251.292,1705.233 -156.433,-625.641 -420.25,76.2 -48.964,393.048 625.647,156.36"
-       fill="#f47216"
-       id="path1638" />
-    <path
-       d="m 1251.292,453.962 -625.646,156.411 70.725,414.8 398.488,54.388 L 1251.292,454"
-       fill="#f25c19"
-       id="path1640" />
-    <path
-       d="m 0,453.962 156.406,625.63 376.753,-84.31 L 625.646,610.374 0,454"
-       fill="#f89c0e"
-       id="path1642" />
-    <path
-       d="M 625.646,1548.821 156.406,1079.592 625.646,610.373 1094.859,1079.592 625.646,1548.8"
-       fill="#f68712"
-       id="path1644" />
-  </g>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M128 60.5006L76.7392 54.8235L38 37.9999H82.9984L128 60.5037" fill="#FBC707"/>
+<path d="M128 60.5006L180.435 55.9974L218 37.9999H172.998L128 60.5037" fill="#FBC707"/>
+<path d="M128 195.502L176.913 197.263L218 218.003H172.998L128 195.498" fill="#F68712"/>
+<path d="M128 195.502H78.6957L38 218.002H82.9984L128 195.498" fill="#F25C19"/>
+<path d="M60.4992 128.002V175.349L38 218.002V173.003L60.4992 128.001" fill="#FFF200"/>
+<path d="M60.4992 128.002L56.7825 81.0417L38 37.9999V82.9994L60.4992 128.001" fill="#FFF200"/>
+<path d="M195.497 128.002L200.391 78.6938L218 37.9999V82.9994L195.497 128.001" fill="#F1471D"/>
+<path d="M195.497 128.002L199.609 180.827L218 218.002V173.003L195.497 128.001" fill="#F1471D"/>
+<path d="M38 37.9999L128 60.5006L113.522 117.825L60.4992 128.002L38 38.0046" fill="#FAB20B"/>
+<path d="M218 37.9999L195.497 128.002L135.043 117.04L128 60.4979L218 38.0046" fill="#F47216"/>
+<path d="M218 218.002L128 195.502L138.174 135.83L195.497 128.006L218 217.997" fill="#F25C19"/>
+<path d="M38 218.002L60.4992 128.002L114.696 140.13L128 195.502L38 217.997" fill="#F89C0E"/>
+<path d="M128 60.5008L60.4992 128.002L128 195.502L195.497 128.002L128 60.5038" fill="#F68712"/>
 </svg>

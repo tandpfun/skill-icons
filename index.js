@@ -60,7 +60,6 @@ const themedIcons = [
 	"godot",
 	"scala",
 	"regex",
-	"svg",
 ];
 
 const ICONS_PER_LINE = 15;

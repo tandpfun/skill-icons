@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
-   fill="none"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="Solidity.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="1.28"
-     inkscape:cx="59.765625"
-     inkscape:cy="183.59375"
-     inkscape:window-width="1211"
-     inkscape:window-height="686"
-     inkscape:window-x="90"
-     inkscape:window-y="730"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12"
-     inkscape:lockguides="false" />
-  <rect
-     width="256"
-     height="256"
-     rx="60"
-     fill="#242938"
-     id="rect2"
-     style="fill:#65afff;fill-opacity:1" />
-  <g
-     id="g1576"
-     transform="matrix(0.28713185,0,0,0.2530757,51.598974,24.101327)"
-     style="fill:#000000;fill-opacity:1">
-    <path
-       d="M 391.93,0 261.226,232.302 H 0 L 130.614,0 H 391.93"
-       opacity="0.45"
-       id="path1552"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="M 261.226,232.302 H 522.544 L 391.93,0 H 130.614 Z"
-       opacity="0.6"
-       id="path1554"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="M 130.614,464.514 261.226,232.302 130.614,0 0,232.302 Z"
-       opacity="0.8"
-       id="path1556"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="M 131.879,812.967 262.583,580.664 H 523.901 L 393.196,812.967 H 131.879"
-       opacity="0.45"
-       id="path1558"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="M 262.582,580.665 H 1.265 l 130.613,232.303 h 261.317 z"
-       opacity="0.6"
-       id="path1560"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="M 393.196,348.453 262.582,580.665 393.196,812.968 523.9,580.665 Z"
-       opacity="0.8"
-       id="path1562"
-       style="fill:#000000;fill-opacity:1" />
-  </g>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#65AFFF"/>
+<path opacity="0.45" d="M165.536 25L128.006 83.79H53L90.5034 25H165.536Z" fill="black"/>
+<path opacity="0.6" d="M128.006 83.79H203.039L165.536 25H90.5034L128.006 83.79Z" fill="black"/>
+<path opacity="0.8" d="M90.5034 142.557L128.006 83.79L90.5034 25L53 83.79L90.5034 142.557Z" fill="black"/>
+<path opacity="0.45" d="M90.8666 230.742L128.396 171.952H203.429L165.899 230.742H90.8666Z" fill="black"/>
+<path opacity="0.6" d="M128.396 171.952H53.3632L90.8664 230.742H165.899L128.396 171.952Z" fill="black"/>
+<path opacity="0.8" d="M165.899 113.185L128.396 171.952L165.899 230.743L203.428 171.952L165.899 113.185Z" fill="black"/>
 </svg>
