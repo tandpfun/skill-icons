@@ -7,9 +7,16 @@
 
 # Docs
 
+- [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
+- [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+
+# Example
+
+<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
 # Specifying Icons
 
@@ -38,6 +45,24 @@ Change the `?theme=light` to either `dark` or `light`. The theme is the backgrou
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+# Centering Icons
+
+Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
+
+```html
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+	</a>
+</p>
+```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 # Icons List
 
