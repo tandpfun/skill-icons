@@ -82,7 +82,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `css`      |        <img src="./icons/CSS.svg" width="48">        |
 |     `dart`     |     <img src="./icons/Dart-Dark.svg" width="48">     |
 |     `deno`     |     <img src="./icons/DENO-Dark.svg" width="48">     |
-|     `dbots`    |     <img src="./icons/DiscordBots.svg" width="48">   |
 |    `docker`    |      <img src="./icons/Docker.svg" width="48">       |
 |    `figma`     |    <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `git`      |        <img src="./icons/Git.svg" width="48">        |
