@@ -56,6 +56,7 @@ const themedIcons = [
 	"jenkins",
 	"bash",
 	"haxe",
+	"godot",
 ];
 
 const ICONS_PER_LINE = 15;
