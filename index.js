@@ -17,6 +17,10 @@ const shortNames = {
 	next: "nextjs",
 	mongo: "mongodb",
 	md: "markdown",
+	ps: "photoshop",
+	ai: "illustrator",
+	pr: "premiere",
+	ae: "aftereffects",
 };
 const themedIcons = [
 	"nodejs",

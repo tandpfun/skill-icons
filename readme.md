@@ -45,6 +45,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |    Icon ID     |                         Icon                         |
 | :------------: | :--------------------------------------------------: |
+|      `ae`      |   <img src="./icons/AfterEffects.svg" width="48">    |
 |   `angular`    |   <img src="./icons/Angular-Dark.svg" width="48">    |
 |      `c`       |         <img src="./icons/C.svg" width="48">         |
 |      `cs`      |        <img src="./icons/CS.svg" width="48">         |
@@ -61,6 +62,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `go`      |      <img src="./icons/GoLang.svg" width="48">       |
 |   `grafana`    |   <img src="./icons/Grafana-Dark.svg" width="48">    |
 |     `html`     |       <img src="./icons/HTML.svg" width="48">        |
+|      `ae`      |    <img src="./icons/Illustrator.svg" width="48">    |
 |     `java`     |     <img src="./icons/Java-Dark.svg" width="48">     |
 |      `js`      |    <img src="./icons/JavaScript.svg" width="48">     |
 |    `jquery`    |      <img src="./icons/JQuery.svg" width="48">       |
@@ -73,8 +75,10 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `nextjs`    |    <img src="./icons/NextJS-Dark.svg" width="48">    |
 |    `nodejs`    |    <img src="./icons/NodeJS-Dark.svg" width="48">    |
 |    `nuxtjs`    |    <img src="./icons/NuxtJS-Dark.svg" width="48">    |
+|      `ps`      |     <img src="./icons/Photoshop.svg" width="48">     |
 |     `php`      |     <img src="./icons/PHP-Dark.svg" width="48">      |
 |   `postgres`   |  <img src="./icons/PostgreSQL-Dark.svg" width="48">  |
+|      `pr`      |     <img src="./icons/Premiere.svg" width="48">      |
 |    `prisma`    |      <img src="./icons/Prisma.svg" width="48">       |
 |  `prometheus`  |    <img src="./icons/Prometheus.svg" width="48">     |
 |      `py`      |    <img src="./icons/Python-Dark.svg" width="48">    |
