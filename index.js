@@ -102,7 +102,7 @@ async function handleRequest(request) {
 			301
 		);
 
-	if (path === "icons" || path === "icons.svg") {
+	if (path === "icons") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
 		if (!iconParam)
 			return new Response("You didn't specify any icons!", { status: 400 });
@@ -111,7 +111,11 @@ async function handleRequest(request) {
 			return new Response('Theme must be either "light" or "dark"', {
 				status: 400,
 			});
-		const iconShortNames = iconParam.split(",");
+
+		let iconShortNames = [];
+		if (iconParam === "all") iconShortNames = iconNameList;
+		else iconShortNames = iconParam.split(",");
+
 		const iconNames = parseShortNames(iconShortNames, theme || undefined);
 		if (!iconNames)
 			return new Response("You didn't format the icons param correctly!", {
