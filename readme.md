@@ -86,7 +86,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `figma`     |    <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `git`      |        <img src="./icons/Git.svg" width="48">        |
 |      `go`      |      <img src="./icons/GoLang.svg" width="48">       |
+|    `godot`     |    <img src="./icons/Godot-Dark.svg" width="48">     |
 |   `grafana`    |   <img src="./icons/Grafana-Dark.svg" width="48">    |
+|     `haxe`     |     <img src="./icons/Haxe-Dark.svg" width="48">     |
 |     `html`     |       <img src="./icons/HTML.svg" width="48">        |
 |      `ae`      |    <img src="./icons/Illustrator.svg" width="48">    |
 |     `java`     |     <img src="./icons/Java-Dark.svg" width="48">     |
@@ -95,6 +97,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `jquery`    |      <img src="./icons/JQuery.svg" width="48">       |
 |    `kotlin`    |    <img src="./icons/Kotlin-Dark.svg" width="48">    |
 |  `kubernetes`  |    <img src="./icons/Kubernetes.svg" width="48">     |
+|    `linux`     |    <img src="./icons/Linux-Dark.svg" width="48">     |
 |     `lua`      |     <img src="./icons/Lua-Dark.svg" width="48">      |
 |      `md`      |   <img src="./icons/Markdown-Dark.svg" width="48">   |
 |   `mongodb`    |      <img src="./icons/MongoDB.svg" width="48">      |
@@ -114,9 +117,13 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `rails`     |       <img src="./icons/Rails.svg" width="48">       |
 |    `react`     |    <img src="./icons/React-Dark.svg" width="48">     |
 |    `redis`     |    <img src="./icons/Redis-Dark.svg" width="48">     |
+|    `regex`     |    <img src="./icons/Regex-Dark.svg" width="48">     |
+|    `remix`     |       <img src="./icons/Remix.svg" width="48">       |
 |     `ruby`     |       <img src="./icons/Ruby.svg" width="48">        |
 |     `rust`     |       <img src="./icons/Rust.svg" width="48">        |
 |     `sass`     |       <img src="./icons/Sass.svg" width="48">        |
+|   `solidity`   |     <img src="./icons/Solidity.svg" width="48">      |
+|    `scala`     |    <img src="./icons/Scala-Dark.svg" width="48">     |
 |    `svelte`    |      <img src="./icons/Svelte.svg" width="48">       |
 |    `swift`     |       <img src="./icons/Swift.svg" width="48">       |
 |   `tailwind`   | <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
