@@ -1,0 +1,35 @@
+name: 🚀 Suggest an Icon
+title: '[NEW ICON] Skill Name'
+description: Suggest an icon to be added to the list!
+labels: 'icon suggestion'
+body:
+
+# skill name block
+- type: input
+  id: skill-name
+  attributes:
+    label: Skill Name
+    description: "The name of the skill you're suggesting. Feel free to suggest more than one!"
+    placeholder: "VS Code"
+  validations:
+    required: true
+
+# reason to add block
+- type: textarea
+  id: reason
+  attributes:
+    label: Why?
+    description: "Why we should add the skill(s) to the project."
+    placeholder: "It's popular for web development..."
+  validations:
+    required: true
+
+# reference image block
+- type: textarea
+  id: reference-image
+  attributes:
+    label: Reference Image
+    description: "Do you have any images of what the logo looks like? SVG preferred."
+    placeholder: "Feel free to drag and drop the files here."
+  validations:
+    required: false
