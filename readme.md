@@ -87,6 +87,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `git`      |        <img src="./icons/Git.svg" width="48">        |
 |      `go`      |      <img src="./icons/GoLang.svg" width="48">       |
 |   `grafana`    |   <img src="./icons/Grafana-Dark.svg" width="48">    |
+|     `haxe`     |       <img src="./icons/Haxe-Dark.svg" width="48">   |
 |     `html`     |       <img src="./icons/HTML.svg" width="48">        |
 |      `ae`      |    <img src="./icons/Illustrator.svg" width="48">    |
 |     `java`     |     <img src="./icons/Java-Dark.svg" width="48">     |
@@ -115,6 +116,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `rails`     |       <img src="./icons/Rails.svg" width="48">       |
 |    `react`     |    <img src="./icons/React-Dark.svg" width="48">     |
 |    `redis`     |    <img src="./icons/Redis-Dark.svg" width="48">     |
+|    `remix`     |    <img src="./icons/Remix.svg" width="48">          |
 |     `ruby`     |       <img src="./icons/Ruby.svg" width="48">        |
 |     `rust`     |       <img src="./icons/Rust.svg" width="48">        |
 |     `sass`     |       <img src="./icons/Sass.svg" width="48">        |
