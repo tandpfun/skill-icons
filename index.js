@@ -96,11 +96,7 @@ async function handleRequest(request) {
 
 	const path = pathname.replace(/^\/|\/$/g, "");
 
-	if (!path)
-		return Response.redirect(
-			"https://github.com/tandpfun/skill-icons#readme",
-			301
-		);
+	if (!path) return fetch(request);
 
 	if (path === "icons") {
 		const iconParam = searchParams.get("i") || searchParams.get("icons");
