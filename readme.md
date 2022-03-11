@@ -86,6 +86,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `figma`     |    <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `git`      |        <img src="./icons/Git.svg" width="48">        |
 |      `go`      |      <img src="./icons/GoLang.svg" width="48">       |
+|    `godot  `   |      <img src="./icons/Godot-Dark.svg" width="48">   |
 |   `grafana`    |   <img src="./icons/Grafana-Dark.svg" width="48">    |
 |     `haxe`     |       <img src="./icons/Haxe-Dark.svg" width="48">   |
 |     `html`     |       <img src="./icons/HTML.svg" width="48">        |
