@@ -93,6 +93,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `jquery`    |      <img src="./icons/JQuery.svg" width="48">       |
 |    `kotlin`    |    <img src="./icons/Kotlin-Dark.svg" width="48">    |
 |  `kubernetes`  |    <img src="./icons/Kubernetes.svg" width="48">     |
+|    `linux`     |     <img src="./icons/Linux-Dark.svg" width="48">    |
 |     `lua`      |     <img src="./icons/Lua-Dark.svg" width="48">      |
 |      `md`      |   <img src="./icons/Markdown-Dark.svg" width="48">   |
 |   `mongodb`    |      <img src="./icons/MongoDB.svg" width="48">      |
