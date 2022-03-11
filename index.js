@@ -21,6 +21,7 @@ const shortNames = {
 	ai: "illustrator",
 	pr: "premiere",
 	ae: "aftereffects",
+	re: "regex",
 };
 const themedIcons = [
 	"nodejs",
@@ -51,6 +52,7 @@ const themedIcons = [
 	"unity",
 	"zig",
 	"workers",
+	"regex",
 ];
 
 const ICONS_PER_LINE = 15;
