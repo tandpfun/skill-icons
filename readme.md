@@ -47,8 +47,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | :------------: | :--------------------------------------------------: |
 |   `angular`    |   <img src="./icons/Angular-Dark.svg" width="48">    |
 |      `c`       |         <img src="./icons/C.svg" width="48">         |
-|      `cs`      |       <img src="./icons/C%23.svg" width="48">        |
-|     `cpp`      |        <img src="./icons/C++.svg" width="48">        |
+|      `cs`      |        <img src="./icons/CS.svg" width="48">         |
+|     `cpp`      |        <img src="./icons/CPP.svg" width="48">        |
 |   `clojure`    |   <img src="./icons/Clojure-Dark.svg" width="48">    |
 |  `cloudflare`  |  <img src="./icons/Cloudflare-Dark.svg" width="48">  |
 | `coffeescript` | <img src="./icons/CoffeeScript-Dark.svg" width="48"> |
