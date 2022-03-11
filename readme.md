@@ -52,9 +52,9 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 
 ```html
 <p align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-	</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 ```
 
@@ -72,6 +72,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | :------------: | :--------------------------------------------------: |
 |      `ae`      |   <img src="./icons/AfterEffects.svg" width="48">    |
 |   `angular`    |   <img src="./icons/Angular-Dark.svg" width="48">    |
+|     `bash`     |     <img src="./icons/Bash-Dark.svg" width="48">     |
 |      `c`       |         <img src="./icons/C.svg" width="48">         |
 |      `cs`      |        <img src="./icons/CS.svg" width="48">         |
 |     `cpp`      |        <img src="./icons/CPP.svg" width="48">        |
@@ -90,6 +91,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `ae`      |    <img src="./icons/Illustrator.svg" width="48">    |
 |     `java`     |     <img src="./icons/Java-Dark.svg" width="48">     |
 |      `js`      |    <img src="./icons/JavaScript.svg" width="48">     |
+|   `jenkins`    |   <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |    `jquery`    |      <img src="./icons/JQuery.svg" width="48">       |
 |    `kotlin`    |    <img src="./icons/Kotlin-Dark.svg" width="48">    |
 |  `kubernetes`  |    <img src="./icons/Kubernetes.svg" width="48">     |
@@ -99,6 +101,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `mongodb`    |      <img src="./icons/MongoDB.svg" width="48">      |
 |    `mysql`     |    <img src="./icons/MySQL-Dark.svg" width="48">     |
 |    `nextjs`    |    <img src="./icons/NextJS-Dark.svg" width="48">    |
+|    `nginx`     |       <img src="./icons/Nginx.svg" width="48">       |
 |    `nodejs`    |    <img src="./icons/NodeJS-Dark.svg" width="48">    |
 |    `nuxtjs`    |    <img src="./icons/NuxtJS-Dark.svg" width="48">    |
 |      `ps`      |     <img src="./icons/Photoshop.svg" width="48">     |
@@ -114,6 +117,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `redis`     |    <img src="./icons/Redis-Dark.svg" width="48">     |
 |     `ruby`     |       <img src="./icons/Ruby.svg" width="48">        |
 |     `rust`     |       <img src="./icons/Rust.svg" width="48">        |
+|     `sass`     |       <img src="./icons/Sass.svg" width="48">        |
 |    `svelte`    |      <img src="./icons/Svelte.svg" width="48">       |
 |    `swift`     |       <img src="./icons/Swift.svg" width="48">       |
 |   `tailwind`   | <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
@@ -122,6 +126,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `vim`      |     <img src="./icons/VIM-Dark.svg" width="48">      |
 |     `vue`      |    <img src="./icons/VueJS-Dark.svg" width="48">     |
 |     `wasm`     |    <img src="./icons/WebAssembly.svg" width="48">    |
+|  `wordpress`   |     <img src="./icons/Wordpress.svg" width="48">     |
 |   `workers`    |   <img src="./icons/Workers-Dark.svg" width="48">    |
 |     `zig`      |     <img src="./icons/Zig-Dark.svg" width="48">      |
 
