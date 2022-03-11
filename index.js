@@ -21,7 +21,8 @@ const shortNames = {
 	ai: "illustrator",
 	pr: "premiere",
 	ae: "aftereffects",
-	scss: 'sass',
+	scss: "sass",
+	sc: "scala",
 };
 const themedIcons = [
 	"nodejs",
@@ -57,6 +58,7 @@ const themedIcons = [
 	"bash",
 	"haxe",
 	"godot",
+	"scala",
 ];
 
 const ICONS_PER_LINE = 15;
