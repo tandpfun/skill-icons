@@ -121,6 +121,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `ruby`     |       <img src="./icons/Ruby.svg" width="48">        |
 |     `rust`     |       <img src="./icons/Rust.svg" width="48">        |
 |     `sass`     |       <img src="./icons/Sass.svg" width="48">        |
+|    `scala`     |      <img src="./icons/Scala-Dark.svg" width="48">   |
 |    `svelte`    |      <img src="./icons/Svelte.svg" width="48">       |
 |    `swift`     |       <img src="./icons/Swift.svg" width="48">       |
 |   `tailwind`   | <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
