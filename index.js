@@ -63,7 +63,6 @@ const themedIcons = [
   'scala',
   'regex',
   'firebase',
-  'gatsby',
   'graphql',
   'latex',
   'supabase',
