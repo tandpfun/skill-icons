@@ -94,7 +94,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `graphql`    |   <img src="./icons/GraphQL-Dark.svg" width="48">    |
 |     `haxe`     |     <img src="./icons/Haxe-Dark.svg" width="48">     |
 |     `html`     |       <img src="./icons/HTML.svg" width="48">        |
-|      `ae`      |    <img src="./icons/Illustrator.svg" width="48">    |
+|      `ai`      |    <img src="./icons/Illustrator.svg" width="48">    |
 |     `java`     |     <img src="./icons/Java-Dark.svg" width="48">     |
 |      `js`      |    <img src="./icons/JavaScript.svg" width="48">     |
 |   `jenkins`    |   <img src="./icons/Jenkins-Dark.svg" width="48">    |
