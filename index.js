@@ -68,6 +68,7 @@ const themedIcons = [
   'supabase',
   'v',
   'vscode',
+  'svg',
 ];
 
 const ICONS_PER_LINE = 15;
