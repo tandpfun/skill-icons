@@ -7,5 +7,10 @@
 		"dev": "node build.js && miniflare --watch",
 		"build": "node build.js",
 		"deploy": "node build.js && wrangler publish"
+	},
+	"devDependencies": {
+		"@cloudflare/wrangler": "^1.19.8",
+		"miniflare": "^2.3.0",
+		"prettier": "^2.5.1"
 	}
 }
