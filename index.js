@@ -21,6 +21,10 @@ const shortNames = {
   ae: 'aftereffects',
   scss: 'sass',
   sc: 'scala',
+  net: 'dotnet',
+  gatsbyjs: 'gatsby',
+  gql: 'graphql',
+  vlang: 'v',
 };
 const themedIcons = [
   'nodejs',
@@ -58,6 +62,13 @@ const themedIcons = [
   'godot',
   'scala',
   'regex',
+  'firebase',
+  'gatsby',
+  'graphql',
+  'latex',
+  'supabase',
+  'v',
+  'vscode',
 ];
 
 const ICONS_PER_LINE = 15;
