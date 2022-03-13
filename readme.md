@@ -87,8 +87,10 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `ae`        |     <img src="./icons/AfterEffects.svg" width="48">      |
 |     `aiscript`     |     <img src="./icons/AiScript-Dark.svg" width="48">     |
 |     `angular`      |     <img src="./icons/Angular-Dark.svg" width="48">      |
+|     `appwrite`     |       <img src="./icons/Appwrite.svg" width="48">        |
 |     `autocad`      |     <img src="./icons/AutoCAD-Dark.svg" width="48">      |
 |       `aws`        |       <img src="./icons/AWS-Dark.svg" width="48">        |
+|       `azul`       |         <img src="./icons/Azul.svg" width="48">          |
 |      `azure`       |      <img src="./icons/Azure-Dark.svg" width="48">       |
 |       `bash`       |       <img src="./icons/Bash-Dark.svg" width="48">       |
 |     `blender`      |     <img src="./icons/Blender-Dark.svg" width="48">      |
@@ -108,6 +110,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `docker`      |        <img src="./icons/Docker.svg" width="48">         |
 |      `dotnet`      |        <img src="./icons/DotNet.svg" width="48">         |
 |     `eclipse`      |     <img src="./icons/Eclipse-Dark.svg" width="48">      |
+|     `electron`     |       <img src="./icons/Electron.svg" width="48">        |
 |      `emacs`       |         <img src="./icons/Emacs.svg" width="48">         |
 |     `emotion`      |     <img src="./icons/Emotion-Dark.svg" width="48">      |
 |     `express`      |    <img src="./icons/ExpressJS-Dark.svg" width="48">     |
@@ -122,6 +125,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `godot`       |      <img src="./icons/Godot-Dark.svg" width="48">       |
 |     `grafana`      |     <img src="./icons/Grafana-Dark.svg" width="48">      |
 |     `graphql`      |     <img src="./icons/GraphQL-Dark.svg" width="48">      |
+|       `gtk`        |       <img src="./icons/GTK-Dark.svg" width="48">        |
 |       `haxe`       |       <img src="./icons/Haxe-Dark.svg" width="48">       |
 |    `haxeflixel`    |    <img src="./icons/HaxeFlixel-Dark.svg" width="48">    |
 |       `html`       |         <img src="./icons/HTML.svg" width="48">          |
@@ -132,6 +136,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `jenkins`      |     <img src="./icons/Jenkins-Dark.svg" width="48">      |
 |      `jquery`      |        <img src="./icons/JQuery.svg" width="48">         |
 |      `kotlin`      |      <img src="./icons/Kotlin-Dark.svg" width="48">      |
+|       `ktor`       |       <img src="./icons/Ktor-Dark.svg" width="48">       |
 |    `kubernetes`    |      <img src="./icons/Kubernetes.svg" width="48">       |
 |     `laravel`      |     <img src="./icons/Laravel-Dark.svg" width="48">      |
 |      `latex`       |      <img src="./icons/LaTeX-Dark.svg" width="48">       |
@@ -154,7 +159,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `pr`        |       <img src="./icons/Premiere.svg" width="48">        |
 |      `prisma`      |        <img src="./icons/Prisma.svg" width="48">         |
 |    `prometheus`    |      <img src="./icons/Prometheus.svg" width="48">       |
+|       `pug`        |       <img src="./icons/Pug-Dark.svg" width="48">        |
 |        `py`        |      <img src="./icons/Python-Dark.svg" width="48">      |
+|        `qt`        |        <img src="./icons/QT-Dark.svg" width="48">        |
 |        `r`         |        <img src="./icons/R-Dark.svg" width="48">         |
 |      `rails`       |         <img src="./icons/Rails.svg" width="48">         |
 |      `react`       |      <img src="./icons/React-Dark.svg" width="48">       |
@@ -166,6 +173,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `sass`       |         <img src="./icons/Sass.svg" width="48">          |
 |     `solidity`     |       <img src="./icons/Solidity.svg" width="48">        |
 |      `spring`      |      <img src="./icons/Spring-Dark.svg" width="48">      |
+|  `stackoverflow`   |  <img src="./icons/StackOverflow-Dark.svg" width="48">   |
 | `styledcomponents` | <img src="./icons/StyledComponents-Dark.svg" width="48"> |
 |     `supabase`     |     <img src="./icons/Supabase-Dark.svg" width="48">     |
 |      `scala`       |      <img src="./icons/Scala-Dark.svg" width="48">       |
@@ -173,6 +181,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `svg`        |       <img src="./icons/SVG-Dark.svg" width="48">        |
 |      `swift`       |         <img src="./icons/Swift.svg" width="48">         |
 |     `tailwind`     |   <img src="./icons/TailwindCSS-Dark.svg" width="48">    |
+|      `tauri`       |      <img src="./icons/Tauri-Dark.svg" width="48">       |
 |        `ts`        |      <img src="./icons/TypeScript.svg" width="48">       |
 |      `unity`       |      <img src="./icons/Unity-Dark.svg" width="48">       |
 |      `unreal`      |     <img src="./icons/UnrealEngine.svg" width="48">      |
