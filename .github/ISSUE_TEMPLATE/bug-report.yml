@@ -1,0 +1,29 @@
+name: 🐛 Bug Report
+title: '[BUG REPORT] Bug'
+description: A bug in the API or elsewhere
+labels: 'bug report'
+body:
+
+- type: input
+  id: bug
+  attributes:
+    label: The bug
+    description: "A complete of what the bug is"
+  validations:
+    required: true
+    
+- type: input
+  id: steps
+  attributes:
+    label: Steps to reproduce
+    description: "What'd you do to make the bug happen?"
+    placeholder: "1. Request API..."
+  validations:
+    required: false
+    
+- type: input
+  id: extra
+  attributes:
+    label: Any extra info
+  validations:
+    required: false
