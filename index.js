@@ -33,6 +33,7 @@ const shortNames = {
   windi: 'windicss',
   unreal: 'unrealengine',
   nest: 'nestjs',
+  ktorio: 'ktor',
 };
 const themedIcons = [
   ...Object.keys(icons)
