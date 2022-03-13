@@ -10,6 +10,7 @@
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
+- [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
 
@@ -36,7 +37,7 @@ Some icons have a dark and light themed background. You can specify which theme 
 
 This is optional. The default theme is dark.
 
-Change the `?theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
+Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
 
 **Light Theme Example:**
 
@@ -45,6 +46,18 @@ Change the `?theme=light` to either `dark` or `light`. The theme is the backgrou
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+# Icons Per Line
+
+You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
+
+Change the `&perline=3` to any number between 1 and 50.
+
+```md
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+```
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
 
 # Centering Icons
 

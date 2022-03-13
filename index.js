@@ -35,81 +35,20 @@ const shortNames = {
   nest: 'nestjs',
 };
 const themedIcons = [
-  'nodejs',
-  'python',
-  'tailwindcss',
-  'vuejs',
-  'nuxtjs',
-  'figma',
-  'react',
-  'cloudflare',
-  'java',
-  'php',
-  'kotlin',
-  'dart',
-  'mysql',
-  'postgresql',
-  'redis',
-  'angular',
-  'deno',
-  'vim',
-  'nextjs',
-  'grafana',
-  'clojure',
-  'coffeescript',
-  'lua',
-  'markdown',
-  'r',
-  'unity',
-  'zig',
-  'workers',
-  'linux',
-  'jenkins',
-  'bash',
-  'haxe',
-  'godot',
-  'scala',
-  'regex',
-  'firebase',
-  'graphql',
-  'latex',
-  'supabase',
-  'v',
-  'vscode',
-  'svg',
-  'activitypub',
-  'aiscript',
-  'autocad',
-  'aws',
-  'azure',
-  'blender',
-  'bsd',
-  'eclipse',
-  'emotion',
-  'expressjs',
-  'flutter',
-  'gcp',
-  'haxeflixel',
-  'idea',
-  'laravel',
-  'nestjs',
-  'materialui',
-  'nim',
-  'plan9',
-  'spring',
-  'styledcomponents',
-  'windicss',
+  ...Object.keys(icons)
+    .filter(i => i.includes('-light') || i.includes('-dark'))
+    .map(i => i.split('-')[0]),
 ];
 
 const ICONS_PER_LINE = 15;
 const ONE_ICON = 48;
 const SCALE = ONE_ICON / (300 - 44);
 
-function generateSvg(iconNames) {
+function generateSvg(iconNames, perLine) {
   const iconSvgList = iconNames.map(i => icons[i]);
 
-  const length = Math.min(ICONS_PER_LINE * 300, iconNames.length * 300) - 44;
-  const height = Math.ceil(iconSvgList.length / ICONS_PER_LINE) * 300 - 44;
+  const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
+  const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
   const scaledHeight = height * SCALE;
   const scaledWidth = length * SCALE;
 
@@ -119,8 +58,8 @@ function generateSvg(iconNames) {
       .map(
         (i, index) =>
           `
-        <g transform="translate(${(index % ICONS_PER_LINE) * 300}, ${
-            Math.floor(index / ICONS_PER_LINE) * 300
+        <g transform="translate(${(index % perLine) * 300}, ${
+            Math.floor(index / perLine) * 300
           })">
           ${i}
         </g>
@@ -157,6 +96,11 @@ async function handleRequest(request) {
       return new Response('Theme must be either "light" or "dark"', {
         status: 400,
       });
+    const perLine = searchParams.get('perline') || ICONS_PER_LINE;
+    if (isNaN(perLine) || perLine < -1 || perLine > 50)
+      return new Response('Icons per line must be a number between 1 and 50', {
+        status: 400,
+      });
 
     let iconShortNames = [];
     if (iconParam === 'all') iconShortNames = iconNameList;
@@ -168,7 +112,7 @@ async function handleRequest(request) {
         status: 400,
       });
 
-    const svg = generateSvg(iconNames);
+    const svg = generateSvg(iconNames, perLine);
 
     return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
   } else if (path === 'api/icons') {
