@@ -152,6 +152,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `nim`        |       <img src="./icons/Nim-Dark.svg" width="48">        |
 |      `nodejs`      |      <img src="./icons/NodeJS-Dark.svg" width="48">      |
 |      `nuxtjs`      |      <img src="./icons/NuxtJS-Dark.svg" width="48">      |
+|    `openshift`     |       <img src="./icons/OpenShift.svg" width="48">       |
 |        `ps`        |       <img src="./icons/Photoshop.svg" width="48">       |
 |       `php`        |       <img src="./icons/PHP-Dark.svg" width="48">        |
 |      `plan9`       |      <img src="./icons/Plan9-Dark.svg" width="48">       |
