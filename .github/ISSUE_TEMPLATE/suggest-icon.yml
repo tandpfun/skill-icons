@@ -1,7 +1,7 @@
-name: 🚀 Suggest an Icon
-title: '[NEW ICON] Skill Name'
+name: 🚀 Request an Icon
+title: '[REQUEST ICON] Skill Name'
 description: Suggest an icon to be added to the list!
-labels: 'icon suggestion'
+labels: 'icon request'
 body:
 
 # skill name block
