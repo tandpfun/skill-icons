@@ -24,18 +24,6 @@ body:
   validations:
     required: true
 
-# suggestion or creation
-body:
-- type: dropdown
-  id: type
-  attributes:
-    label: Are you requesting that an icon be made, or are you submitting an icon you made?
-    options:
-      - Request
-      - Submit
-  validations:
-    required: true
-
 # reference image block
 - type: textarea
   id: reference-image
