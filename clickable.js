@@ -120,6 +120,6 @@ const urlMaps = {
 let renderedText = "";
 const cliargs = process.argv.slice(2);
 cliargs[0].split(",").forEach(element => {
-    renderedText += `<a href="${urlMaps[element]}"><img src="https://skillicons.dev/icons?i=${element}" /></a>`;
+    renderedText += `<a href="${urlMaps[element]}"><img src="https://skillicons.dev/icons?i=${element}" /></a> `;
 });
 console.log(renderedText)
