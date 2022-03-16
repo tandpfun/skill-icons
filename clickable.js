@@ -8,6 +8,7 @@ const themedIcons = [
 const urlMaps = {
   aws: 'https://aws.amazon.com/',
   activitypub: 'https://activitypub.rocks/',
+  actix: 'https://actix.rs/',
   aftereffects: 'https://www.adobe.com/products/aftereffects.html',
   aiscript: 'https://github.com/syuilo/aiscript',
   angular: 'https://angular.io/',
