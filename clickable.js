@@ -92,6 +92,7 @@ const urlMaps = {
   react: 'https://reactjs.org/',
   redis: 'https://redis.io/',
   remix: 'https://remix.run/',
+  rust: 'https://www.rust-lang.org/',
   rocket: 'https://rocket.rs/',
   svg: 'https://www.w3.org/Graphics/SVG/',
   sass: 'https://sass-lang.com/',
