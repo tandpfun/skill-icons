@@ -117,3 +117,8 @@ const urlMaps = {
   workers: 'https://workers.cloudflare.com/',
   zig: 'https://ziglang.org/',
 }
+let renderedText = "";
+process.argv.slice(2).split(",").forEach(element => {
+    renderedText += `<a href="${urlMaps[element]}"><img src="https://skillicons.dev/icons?i={element}" /></a>`;
+});
+console.log(renderedText)
