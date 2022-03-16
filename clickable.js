@@ -73,6 +73,7 @@ const urlMaps = {
   mongodb: 'https://www.mongodb.com/',
   mysql: 'https://www.mysql.com/',
   nestjs: 'https://nestjs.com/',
+  nextjs: 'https://nextjs.org/',
   nim: 'https://nim-lang.org/',
   nodejs: 'https://nodejs.org/',
   nuxtjs: 'https://nuxtjs.org/',
