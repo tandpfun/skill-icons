@@ -87,6 +87,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `ae`        |     <img src="./icons/AfterEffects.svg" width="48">      |
 |     `aiscript`     |     <img src="./icons/AiScript-Dark.svg" width="48">     |
 |     `angular`      |     <img src="./icons/Angular-Dark.svg" width="48">      |
+|     `ansible`      |     <img src="./icons/Ansible.svg" width="48">           |
+|      `apollo`      |       <img src="./icons/Apollo.svg" width="48">          |
 |     `appwrite`     |       <img src="./icons/Appwrite.svg" width="48">        |
 |     `autocad`      |     <img src="./icons/AutoCAD-Dark.svg" width="48">      |
 |       `aws`        |       <img src="./icons/AWS-Dark.svg" width="48">        |
@@ -117,10 +119,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `figma`       |      <img src="./icons/Figma-Dark.svg" width="48">       |
 |     `firebase`     |     <img src="./icons/Firebase-Dark.svg" width="48">     |
 |     `flutter`      |     <img src="./icons/Flutter-Dark.svg" width="48">      |
+|     `fortran`      |     <img src="./icons/Fortran.svg" width="48">           |
 | `gamemakerstudio`  |    <img src="./icons/GameMakerStudio.svg" width="48">    |
 |      `gatsby`      |        <img src="./icons/Gatsby.svg" width="48">         |
 |       `gcp`        |       <img src="./icons/GCP-Dark.svg" width="48">        |
 |       `git`        |          <img src="./icons/Git.svg" width="48">          |
+|    `gherkin`       |      <img src="./icons/Gherkin-Dark.svg" width="48">     |
 |        `go`        |        <img src="./icons/GoLang.svg" width="48">         |
 |      `godot`       |      <img src="./icons/Godot-Dark.svg" width="48">       |
 |     `grafana`      |     <img src="./icons/Grafana-Dark.svg" width="48">      |
@@ -169,6 +173,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `redis`       |      <img src="./icons/Redis-Dark.svg" width="48">       |
 |      `regex`       |      <img src="./icons/Regex-Dark.svg" width="48">       |
 |      `remix`       |         <img src="./icons/Remix.svg" width="48">         |
+|       `rocket`     |         <img src="./icons/Rocket.svg" width="48">        |
 |       `ruby`       |         <img src="./icons/Ruby.svg" width="48">          |
 |       `rust`       |         <img src="./icons/Rust.svg" width="48">          |
 |       `sass`       |         <img src="./icons/Sass.svg" width="48">          |
