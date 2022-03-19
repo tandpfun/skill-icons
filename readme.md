@@ -91,6 +91,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
+|      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
 |       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
@@ -102,6 +103,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `c`         |         <img src="./icons/C.svg" width="48">          |
 |        `cs`        |         <img src="./icons/CS.svg" width="48">         |
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
+|    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
@@ -136,15 +138,18 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
+|    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
+|      `julia`       |     <img src="./icons/Julia-Dark.svg" width="48">     |
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
+|     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
@@ -158,6 +163,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
+|       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
@@ -172,6 +178,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
+|      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |       <img src="./icons/Remix.svg" width="48">        |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
@@ -189,6 +196,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
+|     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `unity`       |     <img src="./icons/Unity-Dark.svg" width="48">     |
 |      `unreal`      |    <img src="./icons/UnrealEngine.svg" width="48">    |
