@@ -119,6 +119,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
+|    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
 |      `figma`       |     <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `firebase`     |   <img src="./icons/Firebase-Dark.svg" width="48">    |
 |     `flutter`      |    <img src="./icons/Flutter-Dark.svg" width="48">    |
@@ -153,7 +154,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
+|     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
+|     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
@@ -180,7 +183,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
-|      `remix`       |       <img src="./icons/Remix.svg" width="48">        |
+|      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
@@ -203,6 +206,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `v`         |       <img src="./icons/V-Dark.svg" width="48">       |
 |       `vala`       |        <img src="./icons/Vala.svg" width="48">        |
 |       `vim`        |      <img src="./icons/VIM-Dark.svg" width="48">      |
+|   `visualstudio`   | <img src="./icons/VisualStudio-Dark.svg" width="48">  |
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
 |       `vue`        |     <img src="./icons/VueJS-Dark.svg" width="48">     |
 |       `wasm`       |    <img src="./icons/WebAssembly.svg" width="48">     |
