@@ -92,6 +92,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
+|     `arduino`      |    <img src="./icons/Arduino-Dark.svg" width="48">    |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
@@ -107,6 +108,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
+|     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
@@ -130,6 +132,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
 |       `git`        |        <img src="./icons/Git.svg" width="48">         |
+|      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
@@ -181,6 +184,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
 |        `r`         |       <img src="./icons/R-Dark.svg" width="48">       |
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
+|   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
@@ -201,6 +205,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
+|    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `unity`       |     <img src="./icons/Unity-Dark.svg" width="48">     |
