@@ -92,7 +92,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
-|     `arduino`      |    <img src="./icons/Arduino-Dark.svg" width="48">    |
+|     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
