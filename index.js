@@ -34,6 +34,7 @@ const shortNames = {
   unreal: 'unrealengine',
   nest: 'nestjs',
   ktorio: 'ktor',
+  pwsh: 'powershell',
 };
 const themedIcons = [
   ...Object.keys(icons)

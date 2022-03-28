@@ -115,6 +115,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |     `discord`      |      <img src="./icons/Discord.svg" width="48">       |
 |       `bots`       |    <img src="./icons/DiscordBots.svg" width="48">     |
+|      `django`      |       <img src="./icons/Django.svg" width="48">       |
 |      `docker`      |       <img src="./icons/Docker.svg" width="48">       |
 |      `dotnet`      |       <img src="./icons/DotNet.svg" width="48">       |
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
@@ -171,11 +172,13 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
+|    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
+|    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
