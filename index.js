@@ -35,6 +35,7 @@ const shortNames = {
   nest: 'nestjs',
   ktorio: 'ktor',
   pwsh: 'powershell',
+  es: 'elasticsearch',
 };
 const themedIcons = [
   ...Object.keys(icons)
