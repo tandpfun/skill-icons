@@ -202,6 +202,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
+|   `sublimetext`    |    <img src="./icons/SublimeText.svg" width="48">     |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
