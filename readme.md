@@ -129,6 +129,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `firebase`     |   <img src="./icons/Firebase-Dark.svg" width="48">    |
 |     `flutter`      |    <img src="./icons/Flutter-Dark.svg" width="48">    |
 |     `fortran`      |      <img src="./icons/Fortran.svg" width="48">       |
+|      `gambas`      |    <img src="./icons/Gambas-Dark.svg" width="48">     |
 | `gamemakerstudio`  |  <img src="./icons/GameMakerStudio.svg" width="48">   |
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
