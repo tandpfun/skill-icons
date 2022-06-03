@@ -211,7 +211,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
-|      `rollup`      |     <img src="./icons/Rollup-Dark.svg" width="48">    |
+|     `rollupjs`     |    <img src="./icons/RollupJS-Dark.svg" width="48">   |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
