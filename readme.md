@@ -83,6 +83,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |      Icon ID       |                         Icon                          |
 | :----------------: | :---------------------------------------------------: |
+|     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
 |        `ae`        |    <img src="./icons/AfterEffects.svg" width="48">    |
@@ -95,6 +96,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
+|       `au`         |  <img src="./icons/Audition.svg" width="48">  |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
 |       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
@@ -209,6 +211,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
+|      `rollup`      |     <img src="./icons/Rollup-Dark.svg" width="48">    |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
