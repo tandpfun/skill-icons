@@ -35,6 +35,8 @@ const shortNames = {
   nest: 'nestjs',
   ktorio: 'ktor',
   pwsh: 'powershell',
+  au: 'audition',
+  rollup: 'rollupjs',
 };
 const themedIcons = [
   ...Object.keys(icons)
