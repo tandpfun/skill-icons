@@ -96,7 +96,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
-|       `au`         |  <img src="./icons/Audition.svg" width="48">  |
+|       `au`         |      <img src="./icons/Audition.svg" width="48">      |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
 |       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
