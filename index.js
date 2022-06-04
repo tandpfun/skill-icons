@@ -36,6 +36,7 @@ const shortNames = {
   ktorio: 'ktor',
   pwsh: 'powershell',
   au: 'audition',
+  rollup: 'rollupjs',
 };
 const themedIcons = [
   ...Object.keys(icons)
