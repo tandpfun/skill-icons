@@ -235,6 +235,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `unreal`      |    <img src="./icons/UnrealEngine.svg" width="48">    |
 |        `v`         |       <img src="./icons/V-Dark.svg" width="48">       |
 |       `vala`       |        <img src="./icons/Vala.svg" width="48">        |
+|      `vercel`      |        <img src="./icons/Vercel-Dark.svg" width="48"> |
 |       `vim`        |      <img src="./icons/VIM-Dark.svg" width="48">      |
 |   `visualstudio`   | <img src="./icons/VisualStudio-Dark.svg" width="48">  |
 |       `vite`       |     <img src="./icons/Vite-Dark.svg" width="48">      |
