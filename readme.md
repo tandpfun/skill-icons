@@ -142,6 +142,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `flutter`      |    <img src="./icons/Flutter-Dark.svg" width="48">    |
 |      `forth`       |       <img src="./icons/Forth.svg" width="48">        |
 |     `fortran`      |      <img src="./icons/Fortran.svg" width="48">       |
+|      `gambas`      |    <img src="./icons/Gambas-Dark.svg" width="48">     |
 | `gamemakerstudio`  |  <img src="./icons/GameMakerStudio.svg" width="48">   |
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
@@ -230,6 +231,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
+|   `sublimetext`    |    <img src="./icons/SublimeText.svg" width="48">     |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
 |     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
