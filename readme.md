@@ -113,6 +113,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
+|      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
@@ -137,6 +138,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `firebase`     |   <img src="./icons/Firebase-Dark.svg" width="48">    |
 |      `flask`       |     <img src="./icons/Flask-Dark.svg" width="48">     |
 |     `flutter`      |    <img src="./icons/Flutter-Dark.svg" width="48">    |
+|      `forth`       |       <img src="./icons/Forth.svg" width="48">        |
 |     `fortran`      |      <img src="./icons/Fortran.svg" width="48">       |
 | `gamemakerstudio`  |  <img src="./icons/GameMakerStudio.svg" width="48">   |
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
@@ -146,6 +148,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
 |     `graphql`      |    <img src="./icons/GraphQL-Dark.svg" width="48">    |
@@ -154,6 +157,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `haxe`       |     <img src="./icons/Haxe-Dark.svg" width="48">      |
 |    `haxeflixel`    |  <img src="./icons/HaxeFlixel-Dark.svg" width="48">   |
 |      `heroku`      |       <img src="./icons/Heroku.svg" width="48">       |
+|    `hibernate`     |   <img src="./icons/Hibernate-Dark.svg" width="48">   |
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
@@ -175,6 +179,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
+|      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
@@ -207,12 +212,14 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
+|    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
 |     `rollupjs`     |   <img src="./icons/RollupJS-Dark.svg" width="48">    |
+|       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
@@ -223,6 +230,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
+|     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
+|     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
 |       `svg`        |      <img src="./icons/SVG-Dark.svg" width="48">      |
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |

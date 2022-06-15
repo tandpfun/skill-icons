@@ -37,6 +37,8 @@ const shortNames = {
   pwsh: 'powershell',
   au: 'audition',
   rollup: 'rollupjs',
+  rxjs: 'reactivex',
+  rxjava: 'reactivex',
 };
 const themedIcons = [
   ...Object.keys(icons)
