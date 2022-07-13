@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -253,6 +255,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `vite`       |     <img src="./icons/Vite-Dark.svg" width="48">      |
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
 |       `vue`        |     <img src="./icons/VueJS-Dark.svg" width="48">     |
+|       `warp`       |     <img src="./icons/Warp-Dark.svg" width="48">      |
 |       `wasm`       |    <img src="./icons/WebAssembly.svg" width="48">     |
 |     `webpack`      |    <img src="./icons/Webpack-Dark.svg" width="48">    |
 |     `windicss`     |   <img src="./icons/WindiCSS-Dark.svg" width="48">    |
