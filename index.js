@@ -39,6 +39,7 @@ const shortNames = {
   rollup: 'rollupjs',
   rxjs: 'reactivex',
   rxjava: 'reactivex',
+  ghactions: 'githubactions',
 };
 const themedIcons = [
   ...Object.keys(icons)

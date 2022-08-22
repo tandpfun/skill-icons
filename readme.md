@@ -112,6 +112,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `c`         |         <img src="./icons/C.svg" width="48">          |
 |        `cs`        |         <img src="./icons/CS.svg" width="48">         |
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
+|     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
@@ -119,6 +120,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
+|        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |     `discord`      |      <img src="./icons/Discord.svg" width="48">       |
@@ -147,6 +149,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
 |       `git`        |        <img src="./icons/Git.svg" width="48">         |
 |      `github`      |    <img src="./icons/Github-Dark.svg" width="48">     |
+|  `githubactions`   | <img src="./icons/GithubActions-Dark.svg" width="48"> |
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
@@ -177,10 +180,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
+|       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
+|      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
@@ -205,6 +210,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
+|    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
@@ -258,6 +264,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `windicss`     |   <img src="./icons/WindiCSS-Dark.svg" width="48">    |
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
+|        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
