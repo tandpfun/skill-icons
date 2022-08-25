@@ -1,14 +1,14 @@
 name: 🐛 Bug Report
 title: '[BUG REPORT] Bug'
-description: A bug in the API or elsewhere
+description: A bug in the API, icon, or elsewhere
 labels: 'bug report'
 body:
 
 - type: input
   id: bug
   attributes:
-    label: The bug
-    description: "A complete of what the bug is"
+    label: Describe the bug
+    description: "Provide a complete description of what the bug is."
   validations:
     required: true
     
@@ -24,6 +24,6 @@ body:
 - type: input
   id: extra
   attributes:
-    label: Any extra info
+    label: Any extra info?
   validations:
     required: false

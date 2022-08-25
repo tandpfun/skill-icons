@@ -19,7 +19,7 @@ body:
   id: reason
   attributes:
     label: Why?
-    description: "Why we should add the skill(s) to the project."
+    description: "Provide a reason why we should add these skill(s) to the project — remember to provide a concise and honest reason! Otherwise, we will dismiss these if your reasoning was structured poorly or improperly."
     placeholder: "It's popular for web development..."
   validations:
     required: true
@@ -30,6 +30,6 @@ body:
   attributes:
     label: Reference Image
     description: "Do you have any images of what the logo looks like? SVG preferred."
-    placeholder: "Feel free to drag and drop the files here."
+    placeholder: "Feel free to drag and drop file(s) or provide an image link(s) here."
   validations:
     required: false

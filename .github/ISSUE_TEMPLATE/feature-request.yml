@@ -9,7 +9,7 @@ body:
   id: request
   attributes:
     label: Feature requested
-    description: "The feature you're requesting. Should have to do with the API."
+    description: "The feature you're requesting. It should have something to do with the API."
     placeholder: "Add this endpoint because..."
   validations:
     required: true
