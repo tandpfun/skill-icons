@@ -1,0 +1,19 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+
+    <g id="background">
+        <rect width="1024" height="1024" fill="#2c2f33" rx="60"/>
+    </g>
+
+    <g id="square">
+        <rect stroke-width="25" height="340" width="340" y="400" x="175" stroke="#2c2f33" fill="#5865f2" />
+    </g>
+
+    <g id="circle">
+        <ellipse stroke-width="25" ry="225" rx="225" cy="410" cx="620" stroke="#2c2f33" fill="#57f287" />
+    </g>
+
+    <g id="triangle">
+        <path stroke-width="25" d="m365,835l200,-370l200,370l-405,0z" stroke="#2c2f33" fill="#ed4245" />
+    </g>
+    
+</svg>
