@@ -1,4 +1,5 @@
 const icons = require('./dist/icons.json');
+const urls = require('./dist/urls.json');
 const iconNameList = [...new Set(Object.keys(icons).map(i => i.split('-')[0]))];
 const shortNames = {
   js: 'javascript',
@@ -53,6 +54,7 @@ const SCALE = ONE_ICON / (300 - 44);
 
 function generateSvg(iconNames, perLine) {
   const iconSvgList = iconNames.map(i => icons[i]);
+  const iconSvgUrls = iconNames.map(i => urls[i.split('-')[0]]);
 
   const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
   const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
@@ -65,11 +67,13 @@ function generateSvg(iconNames, perLine) {
       .map(
         (i, index) =>
           `
-        <g transform="translate(${(index % perLine) * 300}, ${
-            Math.floor(index / perLine) * 300
-          })">
-          ${i}
-        </g>
+          <a href="${iconSvgUrls[index]}" rel="nofollow">
+  			<g transform="translate(${(index % perLine) * 300}, ${
+  				Math.floor(index / perLine) * 300
+  			  })">
+  			  ${i}
+  			</g>
+  		</a>
         `
       )
       .join(' ')}
