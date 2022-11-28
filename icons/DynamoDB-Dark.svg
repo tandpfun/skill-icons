@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg"><title>DynamoDB</title>
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <path d="M154.197 229.852H156.664L196.925 209.719L197.595 208.772V48.0684L196.925 47.1164L156.664 27H154.167L154.197 229.852Z" fill="#5294CF"/>
 <path d="M101.802 229.852H99.3013L59.0741 209.719L58.2578 208.315L57.8436 48.8869L59.0741 47.1164L99.3013 27H101.833L101.802 229.852Z" fill="#1F5B98"/>
