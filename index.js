@@ -1,6 +1,7 @@
 const icons = require('./dist/icons.json');
 const iconNameList = [...new Set(Object.keys(icons).map(i => i.split('-')[0]))];
 const shortNames = {
+  esp32: 'esp32'
   js: 'javascript',
   ts: 'typescript',
   py: 'python',
