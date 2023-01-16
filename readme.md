@@ -205,6 +205,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
+|      `pandas`      |       <img src="./icons/Pandas.svg" width="48">       |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
