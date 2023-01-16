@@ -241,6 +241,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
+|      `scikit`      |     <img src="./icons/ScikitLearn.svg" width="48">    |
 |     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
 |     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
