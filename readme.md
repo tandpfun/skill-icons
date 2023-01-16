@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -135,6 +137,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
+|      `expo`        |      <img src="./icons/Expo-Dark.svg" width="48">     |
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
