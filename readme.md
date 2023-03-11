@@ -116,6 +116,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
 |     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
+|      `CLion`       |      <img src="./icons/CLion-Dark.svg" width="48">    |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
@@ -156,6 +157,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|      `goland`      |    <img src="./icons/GoLand-Dark.svg" width="48">     |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
@@ -210,6 +212,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
+|     `phpstorm`     |   <img src="./icons/PhpStorm-Dark.svg" width="48">    |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
@@ -221,6 +224,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
+|     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
 |        `r`         |       <img src="./icons/R-Dark.svg" width="48">       |
@@ -234,6 +238,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `replit`      |    <img src="./icons/Replit-Dark.svg" width="48">     |
+|      `rider`       |    <img src="./icons/Rider-Dark.svg" width="48">      |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
 |     `rollupjs`     |   <img src="./icons/RollupJS-Dark.svg" width="48">    |
 |       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
@@ -279,6 +284,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
+|     `youtrack`     |    <img src="./icons/YouTrack-Dark.svg" width="48">   |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
