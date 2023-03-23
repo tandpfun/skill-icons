@@ -158,6 +158,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
+|  `googleanalytics` |   <img src="./icons/GoogleAnalytics.svg" width="48">  |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
 |     `graphql`      |    <img src="./icons/GraphQL-Dark.svg" width="48">    |
 |       `gtk`        |      <img src="./icons/GTK-Dark.svg" width="48">      |
@@ -202,6 +203,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
+|      `notion`      |   <img src="./icons/Notion.svg" width="48">  |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
@@ -279,6 +281,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
+|       `yarn`       |         <img src="./icons/Yarn.svg" width="48">       |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
