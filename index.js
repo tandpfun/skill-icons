@@ -40,6 +40,9 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+  bulma: 'bulmacss',
+  fcad: 'freecad',
+  id: 'indesign',
 };
 const themedIcons = [
   ...Object.keys(icons)
