@@ -205,7 +205,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
 |    `materialize`   |  <img src="./icons/Materialize-Dark.svg" width="48">  |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
-|     `misskey`      |  <img src="ruby./icons/Misskey-Dark.svg" width="48">  |
+|     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |      `mocha`       |      <img src="./icons/Mocha-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
