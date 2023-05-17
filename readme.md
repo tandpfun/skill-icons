@@ -191,9 +191,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
+|     `mariadb`      |    <img src="./icons/MariaDB.svg" width="48">         |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
+|     `notion`       |      <img src="./icons/Notion-Dark.svg" width="48">   |
+|       `npm`        |          <img src="./icons/Npm.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
@@ -212,6 +215,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
+|     `postcss`      |  <img src="./icons/PostCSS-Dark.svg" width="48">      |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
