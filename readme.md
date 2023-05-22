@@ -121,6 +121,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
+|     `couchdb`      |  <img src="./icons/Couchdb.svg" width="48">           |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
