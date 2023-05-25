@@ -256,6 +256,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `svg`        |      <img src="./icons/SVG-Dark.svg" width="48">      |
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
 |     `symfony`      |    <img src="./icons/Symfony-Dark.svg" width="48">    |
+|     `tabnews`      |    <img src="./icons/TabNews-Dark.svg" width="48">    |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
