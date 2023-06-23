@@ -200,6 +200,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
 |     `netlify`      |    <img src="./icons/Netlify-Dark.svg" width="48">    |
 |      `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">     |
+|     `nodered`      |      <img src="./icons/NodeRED.svg" width="48">       |
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
