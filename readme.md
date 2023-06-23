@@ -224,6 +224,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
+|      `putty`       |     <img src="./icons/Putty-Dark.svg" width="48">     |
 |       `pwa`        |      <img src="./icons/PWA-Dark.svg" width="48">      |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
