@@ -171,6 +171,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
+|      `ionic`       |    <img src="./icons/Ionic-Dark.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
