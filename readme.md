@@ -116,6 +116,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `c`         |         <img src="./icons/C.svg" width="48">          |
 |        `cs`        |         <img src="./icons/CS.svg" width="48">         |
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
+|      `centos`      |       <img src="./icons/Centos.svg" width="48">       |
 |     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
