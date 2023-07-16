@@ -143,6 +143,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
+|      `fedora`      |       <img src="./icons/Fedora.svg" width="48">       |
 |      `figma`       |     <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `firebase`     |   <img src="./icons/Firebase-Dark.svg" width="48">    |
 |      `flask`       |     <img src="./icons/Flask-Dark.svg" width="48">     |
