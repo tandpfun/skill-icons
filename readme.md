@@ -267,6 +267,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
+|      `ubuntu`      |       <img src="./icons/Ubuntu.svg" width="48">       |
 |      `unity`       |     <img src="./icons/Unity-Dark.svg" width="48">     |
 |      `unreal`      |    <img src="./icons/UnrealEngine.svg" width="48">    |
 |        `v`         |       <img src="./icons/V-Dark.svg" width="48">       |
