@@ -219,6 +219,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
+|    `prestashop`    |     <img src="./icons/prestashop.svg" width="48">     |
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
