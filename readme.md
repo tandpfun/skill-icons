@@ -177,6 +177,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
+|      `JWT`         |       <img src="./icons/JWT-Dark.svg" width="48">     |
 |      `kafka`       |       <img src="./icons/Kafka.svg" width="48">        |
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
