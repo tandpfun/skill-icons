@@ -103,11 +103,13 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
+|    `awslambda`     |      <img src="./icons/awslambda.svg" width="48">     |
 |       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
 |      `azure`       |     <img src="./icons/Azure-Dark.svg" width="48">     |
 |      `babel`       |       <img src="./icons/Babel.svg" width="48">        |
 |       `bash`       |     <img src="./icons/Bash-Dark.svg" width="48">      |
 |       `bevy`       |     <img src="./icons/Bevy-Dark.svg" width="48">      |
+|    `bitbucket`     |     <img src="./icons/bitbucket.svg" width="48">      |
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
 |    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
