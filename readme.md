@@ -134,7 +134,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `dynamodb`     |   <img src="./icons/DynamoDB-Dark.svg" width="48">    |
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
-|    `elementplus`   |    <img src="./icons/Element-Plus.svg" width="48">    |
+|    `elementplus`   |    <img src="./icons/Element-Plus-Dark.svg" width="48">    |
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
@@ -245,7 +245,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
-|    `storybook`     |      <img src="./icons/Storybook.svg" width="48">     |
+|    `storybook`     |      <img src="./icons/Storybook-Dark.svg" width="48">     |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
 |     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
