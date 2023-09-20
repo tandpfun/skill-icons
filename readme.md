@@ -163,6 +163,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `gtk`        |      <img src="./icons/GTK-Dark.svg" width="48">      |
 |       `gulp`       |        <img src="./icons/Gulp.svg" width="48">        |
 |     `haskell`      |    <img src="./icons/Haskell-Dark.svg" width="48">    |
+|     `hashnode`      |    <img src="./icons/hashnode.svg" width="48">    |
 |       `haxe`       |     <img src="./icons/Haxe-Dark.svg" width="48">      |
 |    `haxeflixel`    |  <img src="./icons/HaxeFlixel-Dark.svg" width="48">   |
 |      `heroku`      |       <img src="./icons/Heroku.svg" width="48">       |
