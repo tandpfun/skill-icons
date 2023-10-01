@@ -40,6 +40,7 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+  vs: 'visualstudio',
 };
 const themedIcons = [
   ...Object.keys(icons)
