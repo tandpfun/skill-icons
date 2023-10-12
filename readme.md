@@ -85,6 +85,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |      Icon ID       |                         Icon                          |
 | :----------------: | :---------------------------------------------------: |
+|     `X`            |    <img src="./icons/x.svg" width="60">               |
+|     `X`            |    <img src="./icons/x2.svg" width="80">              |
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
