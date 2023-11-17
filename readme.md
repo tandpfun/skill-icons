@@ -228,6 +228,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
+|    `reactrelay`     |   <img src="./icons/ReactRelay-Dark.svg" width="48">   |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
