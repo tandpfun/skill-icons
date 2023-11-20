@@ -234,7 +234,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `replit`      |    <img src="./icons/Replit-Dark.svg" width="48">     |
-|      `restapi`     |    <img src="./icons/Rest-Api.svg" with="48">         |
+|      `restapi`     |    <img src="./icons/Rest-Api.svg" width="48">         |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
 |     `rollupjs`     |   <img src="./icons/RollupJS-Dark.svg" width="48">    |
 |       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
