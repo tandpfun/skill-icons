@@ -170,6 +170,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
+|     `inkscape`     |      <img src="./icons/Inkscape.svg" width="48">      |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
