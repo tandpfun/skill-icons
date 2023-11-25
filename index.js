@@ -40,6 +40,7 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+  es: 'elasticsearch',
 };
 const themedIcons = [
   ...Object.keys(icons)
