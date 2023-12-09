@@ -271,6 +271,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `visualstudio`   | <img src="./icons/VisualStudio-Dark.svg" width="48">  |
 |       `vite`       |     <img src="./icons/Vite-Dark.svg" width="48">      |
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
+|     `vscodium`     |    <img src="./icons/VSCodium.svg" width="48">        |
 |       `vue`        |     <img src="./icons/VueJS-Dark.svg" width="48">     |
 |       `wasm`       |    <img src="./icons/WebAssembly.svg" width="48">     |
 |     `webflow`      |      <img src="./icons/Webflow.svg" width="48">       |
