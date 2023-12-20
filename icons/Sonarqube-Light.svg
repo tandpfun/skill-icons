@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<rect width="256" height="256" rx="60" fill="#F4F2ED"/>
+<g transform="matrix(0.2112835009 0 0 0.2112835009 128 128)" id="ZxM4_mZVkTGyhGTyJMfKm"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(73,156,210); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M 352.45 455.7 L 299.84999999999997 455.7 C 299.84999999999997 31.599999999999966 -50.05000000000001 -313.40000000000003 -480.05 -313.40000000000003 L -480.05 -366.00000000000006 C -21.05000000000001 -366.00000000000006 352.45 2.499999999999943 352.45 455.7 z M 388.85 172.8 C 325.65000000000003 -93.19999999999999 110.15000000000003 -315.2 -160.14999999999998 -392.90000000000003 L -148.04999999999998 -435.1 C 137.25000000000003 -353.1 364.75 -118.60000000000002 431.45000000000005 162.69999999999993 z M 448.15 -76.9 C 383.04999999999995 -218.9 271.95 -342.79999999999995 135.64999999999998 -425.70000000000005 L 153.95 -455.70000000000005 C 296.25 -369.1 411.95 -239.90000000000003 480.05 -91.50000000000006 z" stroke-linecap="round" />
+</g>
+</svg>
