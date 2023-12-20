@@ -134,6 +134,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `dynamodb`     |   <img src="./icons/DynamoDB-Dark.svg" width="48">    |
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
+|  `elasticsearch`   |      <img src="./icons/ElasticSearch.svg" width="48"> |
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
@@ -181,6 +182,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
+|     `lambda`       |    <img src="./icons/Lambda-Dark.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
@@ -188,6 +190,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
+|     `mailchimp`    |   <img src="./icons/Mailchimp.svg" width="48">        |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
@@ -205,6 +208,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
+|      `openai`      |     <img src="./icons/OpenAI.svg" width="48">         |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
