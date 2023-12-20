@@ -156,6 +156,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|       `gas`        |<img src="./icons/GoogleAppsScript-Dark.svg" width="48">|
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
@@ -171,9 +172,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
+|      `ionic`       |    <img src="./icons/Ionic-Dark.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
+|      `jekyll`      |    <img src="./icons/Jekyll-Dark.svg" width="48">     |
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
@@ -199,6 +202,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
 |     `netlify`      |    <img src="./icons/Netlify-Dark.svg" width="48">    |
 |      `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">     |
+|     `nodered`      |      <img src="./icons/NodeRED.svg" width="48">       |
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
@@ -220,6 +224,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
+|      `putty`       |     <img src="./icons/Putty-Dark.svg" width="48">     |
+|       `pwa`        |      <img src="./icons/PWA-Dark.svg" width="48">      |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
@@ -250,6 +256,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `sentry`      |       <img src="./icons/Sentry.svg" width="48">       |
 |    `sequelize`     |   <img src="./icons/Sequelize-Dark.svg" width="48">   |
 |     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
+|     `socketio`     |   <img src="./icons/SocketIO-Dark.svg" width="48">    |
 |     `solidity`     |      <img src="./icons/Solidity.svg" width="48">      |
 |     `solidjs`      |    <img src="./icons/SolidJS-Dark.svg" width="48">    |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
