@@ -98,6 +98,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
+|       `Arm`        |        <img src="./icons/Arm.svg" width="48">         |
+|       `ASM`        |        <img src="./icons/asm.svg" width="48">         |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |       `atom`       |        <img src="./icons/Atom.svg" width="48">        |
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
@@ -234,6 +236,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
 |      `replit`      |    <img src="./icons/Replit-Dark.svg" width="48">     |
+|      `RISC-V`      |    <img src="./icons/RISC-V-Dark.svg" width="48">     |
 |      `rocket`      |       <img src="./icons/Rocket.svg" width="48">       |
 |     `rollupjs`     |   <img src="./icons/RollupJS-Dark.svg" width="48">    |
 |       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
