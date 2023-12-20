@@ -40,6 +40,8 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+  ep: 'elementplus',
+  storybook: 'storybook'
 };
 const themedIcons = [
   ...Object.keys(icons)
