@@ -1,0 +1,41 @@
+<svg width="256" height="256" fill="none" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="256" height="256" rx="60" display="none" fill="url(#linearGradient37092)"/>
+ <rect width="256" height="256" rx="60" fill="url(#paint0_linear_206_664)"/>
+ <defs>
+  <linearGradient id="paint0_linear_206_664" x1="7.0571" x2="153.18" y1="-2.392" y2="256" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c4cc" stop-opacity=".72549" offset="0"/>
+   <stop stop-color="#00c4cc" offset=".203"/>
+   <stop stop-color="#1a5cdd" stop-opacity=".91979" offset=".50921"/>
+   <stop stop-color="#6420ff" stop-opacity=".95829" offset=".75856"/>
+   <stop stop-color="#872ae7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient10485" x2="256" y1="128" y2="128" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="linearGradient10487" x1="23.498" x2="189.91" y1="12.313" y2="256" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(955.99 -1116 1116 955.99 367.01 1684)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7d2ae7" offset="0"/>
+   <stop stop-color="#6420FF" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient10493" x1="28.653" x2="113.15" y1="8.7774" y2="202.56" gradientTransform="matrix(957.51 1352.5 -1352.5 957.51 503 216)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00C4CC" offset="0"/>
+   <stop stop-color="#00C4CC" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient10491" x1="24.985" x2="84.09" y1="11.21" y2="88.685" gradientTransform="matrix(596 1372 -2298.4 998.43 777 256)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00C4CC" stop-opacity=".72592" offset="0"/>
+   <stop stop-color="#00C4CC" offset=".20236"/>
+   <stop stop-color="#00C4CC" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient37092" x2="256" y1="128" y2="128" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2a9de7" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.4 2)">
+  <g fill-rule="evenodd">
+   <rect width="256" height="256" rx="60" display="none" fill="url(#linearGradient10485)"/>
+   <rect width="256" height="256" rx="60" display="none" fill="url(#linearGradient10487)"/>
+   <rect width="256" height="256" rx="60" display="none" fill="url(#linearGradient10493)"/>
+   <rect width="256" height="256" rx="60" display="none" fill="url(#linearGradient10491)"/>
+  </g>
+  <rect width="256" height="256" rx="60" display="none" fill="none"/>
+  <path d="m182.67 152.05c-0.96709 0-1.8182 0.8166-2.7039 2.6003-10.001 20.28-27.276 34.63-47.265 34.63-23.114 0-37.427-20.865-37.427-49.69 0-48.827 27.205-77.058 51.1-77.058 11.166 0 17.985 7.0169 17.985 18.183 0 13.253-7.5294 20.27-7.5294 24.944 0 2.0981 1.3051 3.3685 3.893 3.3685 10.397 0 22.601-11.947 22.601-28.825 0-16.365-14.243-28.394-38.138-28.394-39.491 0-74.587 36.611-74.587 87.268 0 39.211 22.391 65.123 56.94 65.123 36.669 0 57.872-36.484 57.872-48.326 0-2.6225-1.3408-3.8239-2.7396-3.8239z" fill="#fff" stroke-width=".12335"/>
+ </g>
+</svg>

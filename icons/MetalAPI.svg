@@ -1,0 +1,10 @@
+<svg width="256" height="256" fill="none" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="256" height="256" rx="60" fill="url(#linearGradient8538)"/>
+ <defs>
+  <linearGradient id="linearGradient8538" x1="125.65" x2="128" y1="2.0212" y2="256" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0effdd" offset="0"/>
+   <stop stop-color="#24ff74" offset="1"/>
+  </linearGradient>
+ </defs>
+ <polygon id="Path" transform="matrix(.35588 0 0 .35588 -1.0108 1.536)" points="334 195 651 545 569 545 398 364 396 545 205 309 205 545 141 545 141 132 334 368" fill="#000"/>
+</svg>
