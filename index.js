@@ -40,6 +40,13 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+  cy: 'cypress',
+  in: 'indesign',
+  jira: 'jira',
+  npm: 'npm',
+  pinia: 'pinia',
+  slack: 'slack',
+  x: 'x',
 };
 const themedIcons = [
   ...Object.keys(icons)
