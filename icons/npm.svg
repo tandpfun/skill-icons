@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>npm</title>
+	<style>
+		.s0 { fill: #d40001 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m0 60c0-33.1 26.9-60 60-60h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m181.1 86.4h-50.8v138.6h-92.3v-194h92.3 87.7v55.4 138.6h-36.9z"/>
+</svg>

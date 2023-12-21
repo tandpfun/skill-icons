@@ -1,0 +1,71 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>Pinia-Light</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-7.145,33.801,-30.449,-6.436,105.308,49.044)">
+			<stop offset="0" stop-color="#52ce63"/>
+			<stop offset="1" stop-color="#51a256"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-8.347,30.414,-21.527,-5.908,166.39,62.006)">
+			<stop offset="0" stop-color="#52ce63"/>
+			<stop offset="1" stop-color="#51a256"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,53.977,-26.59,0,133.124,23)">
+			<stop offset="0" stop-color="#8ae99c"/>
+			<stop offset="1" stop-color="#52ce63"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-8.735,117.406,-106.191,-7.901,126.067,109.041)">
+			<stop offset="0" stop-color="#ffe56c"/>
+			<stop offset="1" stop-color="#ffc63a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #f4f2ed } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: url(#g4) } 
+		.s5 { fill: #eaadcc } 
+		.s6 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6 } 
+		.s7 { fill: #000000 } 
+		.s8 { fill: #ffffff } 
+		.s9 { fill: #ffffff;stroke: #ffffff;stroke-width: 3 } 
+		.s10 { fill: none;stroke: #ecb732;stroke-linecap: round;stroke-width: 11 } 
+		.s11 { fill: none;stroke: #ffc73b;stroke-linecap: round;stroke-width: 11 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 60c0-33.1 26.9-60 60-60h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60z"/>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m122.2 121.6c13.8-13.1 9.6-29.4-2.9-49-12.5-19.7-37.6-26.7-42.3-22.3-4.7 4.5-5.7 36.4 6.7 56.1 12.5 19.7 24.7 28.4 38.5 15.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m134.1 123.4c10.2 16.1 23.9 10.2 40.7-5.8 16.9-16.1 23.9-46.9 20.5-52.4-3.5-5.5-29.9-5.2-46.8 10.9-16.8 16.1-24.6 31.3-14.4 47.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s3" d="m128.5 114.6c17 2.1 23.6-13.6 26.8-38.9 3.1-25.3-9.7-52-15.5-52.7-5.8-0.7-25.1 22.1-28.2 47.4-3.1 25.3 0 42.1 16.9 44.2z"/>
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m124.3 226.4c35.5 0 64.3-10.3 64.3-57 0-46.8-28.8-85.2-64.3-85.2-35.5 0-64.3 38.4-64.3 85.2 0 46.7 28.8 57 64.3 57z"/>
+		<path id="Layer" class="s5" d="m156.8 159.8c-5.1 0-9.2-1.9-9.2-4.3 0-2.3 4.1-4.2 9.2-4.2 5 0 9.1 1.9 9.1 4.2 0 2.4-4.1 4.3-9.1 4.3z"/>
+		<path id="Layer" class="s5" d="m88.7 157.2c-5-0.6-8.8-3-8.6-5.4 0.3-2.3 4.6-3.7 9.7-3.1 5 0.6 8.9 3 8.6 5.4-0.3 2.3-4.6 3.7-9.7 3.1z"/>
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s6" d="m130.2 154q-4.2 3.4-9.6 2.8-5.4-0.7-8.1-4.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s7" d="m94.6 131.8c2.5-0.1 4.9 0.8 6.6 2.4 1.7 1.6 2.8 3.9 2.9 6.4 0.1 2.6-0.9 4.9-2.5 6.6-1.6 1.7-3.8 2.9-6.4 2.9-2.5 0.1-4.8-0.8-6.5-2.4-1.8-1.6-2.9-3.9-3-6.4-0.1-2.6 0.9-4.9 2.5-6.6 1.6-1.7 3.9-2.8 6.4-2.9z"/>
+			<path id="Layer" fill-rule="evenodd" class="s8" d="m92.1 142.6c-1.7 0-3-1.4-3-3 0-1.7 1.3-3 3-3 1.6 0 3 1.3 3 3 0 1.6-1.4 3-3 3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s7" d="m150.3 134.1c2.5-0.1 4.8 0.9 6.5 2.5 1.8 1.6 2.9 3.8 3 6.4 0 2.5-0.9 4.8-2.5 6.6-1.6 1.7-3.9 2.8-6.4 2.9-2.5 0.1-4.9-0.9-6.6-2.5-1.7-1.6-2.8-3.8-2.9-6.4-0.1-2.5 0.9-4.9 2.5-6.6 1.6-1.7 3.8-2.8 6.4-2.9z"/>
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s9" d="m95.3 151.4c-5.8 0.2-10.6-4.3-10.8-10.1-0.2-5.7 4.3-10.6 10.1-10.8 5.7-0.2 10.6 4.3 10.8 10.1 0.2 5.8-4.3 10.6-10.1 10.8zm-0.7-18.3c-4.3 0.1-7.7 3.8-7.6 8.1 0.2 4.4 3.8 7.8 8.2 7.7 4.4-0.2 7.8-3.8 7.6-8.2-0.1-4.4-3.8-7.8-8.2-7.6z"/>
+				<path id="Layer" fill-rule="evenodd" class="s9" d="m150.9 153.8c-5.7 0.2-10.6-4.4-10.8-10.1-0.2-5.8 4.3-10.7 10.1-10.9 5.8-0.2 10.6 4.4 10.8 10.1 0.2 5.8-4.3 10.7-10.1 10.9zm-0.6-18.4c-4.4 0.1-7.8 3.8-7.6 8.2 0.1 4.3 3.8 7.7 8.1 7.6 4.4-0.2 7.8-3.8 7.7-8.2-0.2-4.3-3.8-7.8-8.2-7.6z"/>
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m147.7 144.9c-1.6 0-2.9-1.3-2.9-3 0-1.7 1.3-3 2.9-3 1.7 0 3 1.3 3 3 0 1.7-1.3 3-3 3z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s10" d="m75.6 173.7l31.6 32.9"/>
+				<path id="Layer" fill-rule="evenodd" class="s10" d="m102.9 177.5l-20 21.4"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s10" d="m172.6 173.7l-31.6 32.9"/>
+				<path id="Layer" fill-rule="evenodd" class="s10" d="m145.2 177.5l20.1 21.4"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s11" d="m137.1 101.1l-20.9 20.9"/>
+				<path id="Layer" fill-rule="evenodd" class="s11" d="m132.8 122l-20.9-20.9"/>
+			</g>
+		</g>
+	</g>
+</svg>

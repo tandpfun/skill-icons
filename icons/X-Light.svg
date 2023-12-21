@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>X-Light</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 60c0-33.1 26.9-60 60-60h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m93 45.8l44.3 59.3 54.9-59.3h15.3l-63.4 68.5 71.5 95.5h-52.1l-48.2-64.4-59.5 64.4h-15.4l68.1-73.5-67.6-90.5zm76.1 152.7h23.9l-105.7-141.4h-23.9z"/>
+</svg>
