@@ -16,7 +16,7 @@
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
-  - [💖 Support the Project](#-support-the-project)
+- [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -286,7 +286,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ---
 
-## 💖 Support the Project
+# 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
