@@ -138,6 +138,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `elasticsearch`   | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
+|      `elm`         |       <img src="./icons/Elm.svg" width="48">          |
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
