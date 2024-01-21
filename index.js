@@ -41,6 +41,7 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   hug: 'huggingface',
+  leetcode: 'leetcode',
 };
 const themedIcons = [
   ...Object.keys(icons)
