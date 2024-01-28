@@ -128,3 +128,6 @@ dist
 
 # Cloudflare Worker
 worker/
+
+# Mac files
+.DS_Store
