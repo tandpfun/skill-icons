@@ -109,6 +109,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `babel`       |       <img src="./icons/Babel.svg" width="48">        |
 |       `bash`       |     <img src="./icons/Bash-Dark.svg" width="48">      |
 |       `bevy`       |     <img src="./icons/Bevy-Dark.svg" width="48">      |
+|    `bitbucket`     |  <img src="./icons/BitBucket-Dark.svg" width="48">    |
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
 |    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
@@ -207,6 +208,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |       `nix`        |      <img src="./icons/Nix-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
+|       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
@@ -219,6 +221,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
+|       `pnpm`       |        <img src="./icons/Pnpm-Dark.svg" width="48">   |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
@@ -290,6 +293,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
+|      `yarn`        |   <img src="./icons/Yarn-Dark.svg" width="48">    |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
