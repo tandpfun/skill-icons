@@ -97,6 +97,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `angular`      |    <img src="./icons/Angular-Dark.svg" width="48">    |
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
+|       `apple`      |     <img src="./icons/Apple-Dark.svg" width="48">     |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |       `arch`       |      <img src="./icons/Arch-Dark.svg" width="48">     |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
@@ -218,8 +219,10 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |       `nix`        |      <img src="./icons/Nix-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
+|      `notion`      |    <img src="./icons/Notion-Dark.svg" width="48">     |
 |       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
+|     `obsidian`     |    <img src="./icons/Obsidian-Dark.svg" width="48">   |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
 |      `opencv`      |    <img src="./icons/OpenCV-Dark.svg" width="48">     |
@@ -311,6 +314,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `webpack`      |    <img src="./icons/Webpack-Dark.svg" width="48">    |
 |     `webstorm`     |    <img src="./icons/WebStorm-Dark.svg" width="48">   |
 |     `windicss`     |   <img src="./icons/WindiCSS-Dark.svg" width="48">    |
+|     `windows`      |   <img src="./icons/Windows-Dark.svg" width="48">    |
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
