@@ -127,13 +127,15 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
+|     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
-|       `debian`     |     <img src="./icons/Debian-Dark.svg" width="48">      |
+|       `debian`     |     <img src="./icons/Debian-Dark.svg" width="48">    |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
 |     `discord`      |      <img src="./icons/Discord.svg" width="48">       |
 |       `bots`       |    <img src="./icons/DiscordBots.svg" width="48">     |
+|     `discordjs`    |    <img src="./icons/DiscordJS-Dark.svg" width="48">  |
 |      `django`      |       <img src="./icons/Django.svg" width="48">       |
 |      `docker`      |       <img src="./icons/Docker.svg" width="48">       |
 |      `dotnet`      |       <img src="./icons/DotNet.svg" width="48">       |
@@ -142,6 +144,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `elasticsearch`   | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
+|      `elysia`      |    <img src="./icons/Elysia-Dark.svg" width="48">     |
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
@@ -176,6 +179,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `heroku`      |       <img src="./icons/Heroku.svg" width="48">       |
 |    `hibernate`     |   <img src="./icons/Hibernate-Dark.svg" width="48">   |
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
+|       `htmx`       |       <img src="./icons/Htmx-Dark.svg" width="48">    |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
@@ -192,6 +196,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
+|      `less`        |     <img src="./icons/Less-Dark.svg" width="48">      |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
@@ -225,6 +230,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |     `phpstorm`     |    <img src="./icons/PhpStorm-Dark.svg" width="48">   |
+|      `pinia`       |    <img src="./icons/Pinia-Dark.svg" width="48">      |
+|       `pkl`        |     <img src="./icons/Pkl-Dark.svg" width="48">       |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
 |       `pnpm`       |        <img src="./icons/Pnpm-Dark.svg" width="48">   |
@@ -298,6 +305,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
 |     `vscodium`     |    <img src="./icons/VSCodium-Dark.svg" width="48">   |
 |       `vue`        |     <img src="./icons/VueJS-Dark.svg" width="48">     |
+|     `vuetify`      |   <img src="./icons/Vuetify-Dark.svg" width="48">     |
 |       `wasm`       |    <img src="./icons/WebAssembly.svg" width="48">     |
 |     `webflow`      |      <img src="./icons/Webflow.svg" width="48">       |
 |     `webpack`      |    <img src="./icons/Webpack-Dark.svg" width="48">    |
@@ -307,6 +315,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |      `yarn`        |   <img src="./icons/Yarn-Dark.svg" width="48">    |
+|       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
