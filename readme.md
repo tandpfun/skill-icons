@@ -84,7 +84,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
 |      Icon ID       |                         Icon                          |
-| :----------------: | :---------------------------------------------------: |
+|:------------------:|:-----------------------------------------------------:|
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
@@ -279,6 +279,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `vercel`      |    <img src="./icons/Vercel-Dark.svg" width="48">     |
 |       `vim`        |      <img src="./icons/VIM-Dark.svg" width="48">      |
 |   `visualstudio`   | <img src="./icons/VisualStudio-Dark.svg" width="48">  |
+|        `vb`        |      <img src="./icons/VB-Dark.svg" width="48">       |
 |       `vite`       |     <img src="./icons/Vite-Dark.svg" width="48">      |
 |      `vitest`      |    <img src="./icons/Vitest-Dark.svg" width="48">     |
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
