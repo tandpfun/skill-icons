@@ -141,6 +141,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `docker`      |       <img src="./icons/Docker.svg" width="48">       |
 |      `dotnet`      |       <img src="./icons/DotNet.svg" width="48">       |
 |     `dynamodb`     |   <img src="./icons/DynamoDB-Dark.svg" width="48">    |
+|     `echarts`      |      <img src="./icons/ECharts.svg" width="48">       |
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
 |  `elasticsearch`   | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
