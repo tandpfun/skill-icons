@@ -238,6 +238,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
 |       `pnpm`       |     <img src="./icons/Pnpm-Dark.svg" width="48">      |
+|    `pocketbase`    |  <img src="./icons/Pocketbase-Dark.svg" width="48">   |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
