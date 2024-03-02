@@ -8,6 +8,7 @@ const shortNames = {
   vue: 'vuejs',
   nuxt: 'nuxtjs',
   go: 'golang',
+  goland: 'golang',
   cf: 'cloudflare',
   wasm: 'webassembly',
   postgres: 'postgresql',
