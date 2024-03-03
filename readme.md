@@ -324,6 +324,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+|    `Helix-Dark`    |      <img src="./icons/Helix-Dark.svg" width="48">    |
+|    `Helix-Light`   |      <img src="./icons/Helix-Light.svg" width="48">   |
+|   `Kakoune-light`  |      <img src="./icons/Kakoune-Light.svg" width="48"> |
+|   `Kakoune-Dark`   |      <img src="./icons/Kakoune-Dark.svg" width="48">  |
+|     `Zed-light`    |      <img src="./icons/Zed-Light.svg" width="48">     |
+|     `Zed-Dark`     |      <img src="./icons/Zed-Dark.svg" width="48">      |
 |    `xcode-light`   |      <img src="./icons/Xcode-Light.svg" width="48">   |
 |    `xcode-dark`    |      <img src="./icons/Xcode-Dark.svg" width="48">    |
 
