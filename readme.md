@@ -168,7 +168,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `gamemakerstudio`  |   <img src="./icons/GameMakerStudio.svg" width="48">    |
 |       `gatsby`      |        <img src="./icons/Gatsby.svg" width="48">        |
 |        `gcp`        |       <img src="./icons/GCP-Dark.svg" width="48">       |
-|        `git`        |         <img src="./icons/Git.svg" width="48">          |
+|        `git`        |         <img src="./icons/Git-Dark.svg" width="48">          |
 |       `github`      |     <img src="./icons/Github-Dark.svg" width="48">      |
 |   `githubactions`   |  <img src="./icons/GithubActions-Dark.svg" width="48">  | 
 |       `gitlab`      |     <img src="./icons/GitLab-Dark.svg" width="48">      |
@@ -293,7 +293,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `rollupjs`     |    <img src="./icons/RollupJS-Dark.svg" width="48">     |
 |        `ros`        |       <img src="./icons/ROS-Dark.svg" width="48">       |
 |        `ruby`       |         <img src="./icons/Ruby.svg" width="48">         |
-|        `rust`       |         <img src="./icons/Rust.svg" width="48">         |
+|        `rust`       |         <img src="./icons/Rust-Dark.svg" width="48">         |
 |      `safari`       |       <img src="./icons/Safari-Dark.svg" width="48">    |
 |        `sass`       |         <img src="./icons/Sass.svg" width="48">         |
 |       `spring`      |     <img src="./icons/Spring-Dark.svg" width="48">      |
