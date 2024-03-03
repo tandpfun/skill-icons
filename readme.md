@@ -215,10 +215,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
+|    `matplotlib`    |   <img src="./icons/MatPlotLib-Dark.svg" width="48">  |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
-|     `ml5`      |    <img src="./icons/ML5-Dark.svg" width="48">    |
+|       `ml5`        |    <img src="./icons/ML5-Dark.svg" width="48">        |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
@@ -231,6 +232,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
 |      `notion`      |    <img src="./icons/Notion-Dark.svg" width="48">     |
 |       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
+|       `numpy`      |      <img src="./icons/NumPy-Dark.svg" width="48">    |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |     `obsidian`     |   <img src="./icons/Obsidian-Dark.svg" width="48">    |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
@@ -240,6 +242,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |      `opera`       |      <img src="./icons/Opera-Dark.svg" width="48">    |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
+|      `pandas`      |     <img src="./icons/Pandas-Dark.svg" width="48">    |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
@@ -290,6 +293,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
+|       `scipy`      |      <img src="./icons/SciPy-Dark.svg" width="48">    |
 |     `sklearn`      |  <img src="./icons/ScikitLearn-Dark.svg" width="48">  |
 |     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
 |      `sentry`      |       <img src="./icons/Sentry.svg" width="48">       |
