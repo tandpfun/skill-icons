@@ -306,6 +306,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `surrealdb`     |   <img src="./icons/SurrealDB-Dark.svg" width="48">     |
 |       `scala`       |      <img src="./icons/Scala-Dark.svg" width="48">      |
 |        `scipy`      |       <img src="./icons/SciPy-Dark.svg" width="48">     |
+|      `scratch`      |       <img src="./icons/Scratch.svg" width="48">        |
 |      `sklearn`      |   <img src="./icons/ScikitLearn-Dark.svg" width="48">   |
 |      `selenium`     |       <img src="./icons/Selenium.svg" width="48">       |
 |       `sentry`      |        <img src="./icons/Sentry.svg" width="48">        |
@@ -332,6 +333,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `unreal`      |     <img src="./icons/UnrealEngine.svg" width="48">     |
 |         `v`         |        <img src="./icons/V-Dark.svg" width="48">        |
 |        `vala`       |         <img src="./icons/Vala.svg" width="48">         |
+|         `vb`        |   <img src="./icons/VisualBasic-Dark.svg" width="48">   |
 |       `vercel`      |     <img src="./icons/Vercel-Dark.svg" width="48">      |
 |        `vim`        |       <img src="./icons/VIM-Dark.svg" width="48">       |
 |    `visualstudio`   |  <img src="./icons/VisualStudio-Dark.svg" width="48">   |
