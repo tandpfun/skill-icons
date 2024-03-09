@@ -13,6 +13,16 @@ body:
     placeholder: "VS Code"
   validations:
     required: true
+    
+# skill url block
+- type: input
+  id: skill-url
+  attributes:
+    label: Skill URL/Homepage
+    description: "The website of the skill, if applicable"
+    placeholder: "https://www.rust-lang.org/"
+  validations:
+    required: false
 
 # reason to add block
 - type: textarea
