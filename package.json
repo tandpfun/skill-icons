@@ -9,8 +9,8 @@
 		"deploy": "node build.js && wrangler publish"
 	},
 	"devDependencies": {
-		"@cloudflare/wrangler": "^1.19.8",
-		"miniflare": "^2.3.0",
-		"prettier": "^2.5.1"
+		"@cloudflare/wrangler": "^1.19.12",
+		"miniflare": "^2.7.1",
+		"prettier": "^2.7.1"
 	}
 }
