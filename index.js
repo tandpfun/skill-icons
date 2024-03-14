@@ -41,6 +41,12 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
+  gr : 'gradio',
+  st : 'streamlit',
+  np : 'numpy',
+  pd : 'pandas',
+  plt : 'matplotlib',
+  langchain : 'langchain',
 };
 const themedIcons = [
   ...Object.keys(icons)

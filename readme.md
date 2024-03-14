@@ -168,6 +168,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gmail`       |     <img src="./icons/Gmail-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|      `gradio`      |    <img src="./icons/Gradio-Dark.svg" width="48">     |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
@@ -195,6 +196,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
+|    `langchain`     |   <img src="./icons/Langchain-Dark.svg" width="48">   |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
 |       `less`       |     <img src="./icons/Less-Dark.svg" width="48">      |
@@ -206,6 +208,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
+|    `matplotlib`    |   <img src="./icons/Matplotlib-Dark.svg" width="48">  |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
@@ -221,6 +224,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
 |      `notion`      |    <img src="./icons/Notion-Dark.svg" width="48">     |
 |       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
+|      `numpy`       |     <img src="./icons/Numpy-Dark.svg" width="48">     |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |     `obsidian`     |   <img src="./icons/Obsidian-Dark.svg" width="48">    |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
@@ -229,6 +233,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
+|      `pandas`      |     <img src="./icons/Pandas-Dark.svg" width="48">    |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
@@ -273,6 +278,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
+|    `streamlit`     |   <img src="./icons/Streamlit-Dark.svg" width="48">   |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
