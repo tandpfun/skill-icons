@@ -131,6 +131,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
+|     `daisyui`      |   <img src="./icons/Daisyui-Dark.svg" width="48">     |
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
