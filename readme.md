@@ -182,7 +182,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
-|       `ionic`      |      <img src="./icons/Ionic-dark.svg" width="48">    |
+|       `ionic`      |      <img src="./icons/Ionic-Dark.svg" width="48">    |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
