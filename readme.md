@@ -173,6 +173,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `githubactions`   |  <img src="./icons/GithubActions-Dark.svg" width="48">  | 
 |       `gitlab`      |     <img src="./icons/GitLab-Dark.svg" width="48">      |
 |       `gmail`       |      <img src="./icons/Gmail-Dark.svg" width="48">      |
+|       `gleam`       |      <img src="./icons/Gleam-Dark.svg" width="48">      |
 |      `gherkin`      |     <img src="./icons/Gherkin-Dark.svg" width="48">     |
 |         `go`        |        <img src="./icons/GoLang.svg" width="48">        |
 |  `googleanalytics`  | <img src="./icons/GoogleAnalytics-Dark.svg" width="48"> |
