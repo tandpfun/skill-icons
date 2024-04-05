@@ -52,7 +52,8 @@ const themedIcons = [
     .filter(i => i.includes('-light') || i.includes('-dark'))
     .map(i => i.split('-')[0]),
 ];
-
+//No debugger available, can not send 'variables'
+debugger; // Add debugger statement here
 const ICONS_PER_LINE = 15;
 const ONE_ICON = 48;
 const SCALE = ONE_ICON / (300 - 44);
