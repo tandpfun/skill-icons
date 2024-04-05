@@ -1,4 +1,9 @@
 const icons = require('./dist/icons.json');
+const iconNameList = require('./iconNameList');
+const icons = require('./icons');
+const parseShortNames = require('./parseShortNames');
+const generateSvg = require('./generateSvg');
+const ICONS_PER_LINE = require('./constants').ICONS_PER_LINE;
 const iconNameList = [...new Set(Object.keys(icons).map(i => i.split('-')[0]))];
 const shortNames = {
   js: 'javascript',
