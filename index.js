@@ -1,4 +1,9 @@
 const icons = require('./dist/icons.json');
+const iconNameList = require('./iconNameList');
+const icons = require('./icons');
+const parseShortNames = require('./parseShortNames');
+const generateSvg = require('./generateSvg');
+const ICONS_PER_LINE = require('./constants').ICONS_PER_LINE;
 const iconNameList = [...new Set(Object.keys(icons).map(i => i.split('-')[0]))];
 const shortNames = {
   js: 'javascript',
@@ -47,7 +52,8 @@ const themedIcons = [
     .filter(i => i.includes('-light') || i.includes('-dark'))
     .map(i => i.split('-')[0]),
 ];
-
+//No debugger available, can not send 'variables'
+debugger; // Add debugger statement here
 const ICONS_PER_LINE = 15;
 const ONE_ICON = 48;
 const SCALE = ONE_ICON / (300 - 44);
@@ -139,6 +145,69 @@ async function handleRequest(request) {
     return fetch(request);
   }
 }
+
+addEventListener('fetch', event => {
+  event.respondWith(
+    handleRequest(event.request).catch(
+      err => new Response(err.stack, { status: 500 })
+    )
+  );
+});
+
+const handleRequest = async (request) => {
+  const { pathname, searchParams } = new URL(request.url);
+  const path = pathname.replace(/^\/|\/$/g, '');
+
+  if (path === 'icons') {
+    const iconParam = searchParams.get('i') || searchParams.get('icons');
+    if (!iconParam) {
+      return new Response("You didn't specify any icons!", { status: 400 });
+    }
+
+    const theme = searchParams.get('t') || searchParams.get('theme');
+    if (theme && theme !== 'dark' && theme !== 'light') {
+      return new Response('Theme must be either "light" or "dark"', { status: 400 });
+    }
+
+    const perLine = Number(searchParams.get('perline')) || ICONS_PER_LINE;
+    if (isNaN(perLine) || perLine < 1 || perLine > 50) {
+      return new Response('Icons per line must be a number between 1 and 50', { status: 400 });
+    }
+
+    let iconShortNames = [];
+    if (iconParam === 'all') {
+      iconShortNames = iconNameList;
+    } else {
+      iconShortNames = iconParam.split(',');
+    }
+
+    const iconNames = parseShortNames(iconShortNames, theme);
+    if (!iconNames) {
+      return new Response("You didn't format the icons param correctly!", { status: 400 });
+    }
+
+    const svg = generateSvg(iconNames, perLine);
+    return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
+  }
+
+  if (path === 'api/icons') {
+    return new Response(JSON.stringify(iconNameList), {
+      headers: {
+        'content-type': 'application/json;charset=UTF-8',
+      },
+    });
+  }
+
+  if (path === 'api/svgs') {
+    return new Response(JSON.stringify(icons), {
+      headers: {
+        'content-type': 'application/json;charset=UTF-8',
+      },
+    });
+  }
+
+  return fetch(request);
+};
 
 addEventListener('fetch', event => {
   event.respondWith(
