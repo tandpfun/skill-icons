@@ -1,0 +1,33 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M196 0H60C26.8629 0 0 26.8629 0 60V196C0 229.137 26.8629 256 60 256H196C229.137 256 256 229.137 256 196V60C256 26.8629 229.137 0 196 0Z" fill="#242938"/>
+<g clip-path="url(#clip0_80_21)">
+<path d="M127.5 211.582C173.937 211.582 211.582 173.937 211.582 127.5C211.582 81.0628 173.937 43.418 127.5 43.418C81.0628 43.418 43.418 81.0628 43.418 127.5C43.418 173.937 81.0628 211.582 127.5 211.582Z" fill="#F2E4FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.679 199.086V188.479C161.278 188.382 188.484 161.121 188.484 127.498C188.484 93.8768 161.278 66.6158 127.679 66.5188V55.9117C167.136 56.0112 199.088 88.019 199.088 127.498C199.088 166.979 167.136 198.989 127.679 199.086ZM127.679 161.96C146.63 161.861 161.97 146.475 161.97 127.498C161.97 108.522 146.63 93.137 127.679 93.0375V82.4329C152.491 82.5299 172.577 102.665 172.577 127.498C172.577 152.333 152.491 172.468 127.679 172.565V161.96ZM127.679 108.947C137.845 109.044 146.06 117.308 146.06 127.498C146.06 137.69 137.845 145.954 127.679 146.051V108.947ZM40 127.498C40 175.825 79.173 215 127.5 215C175.825 215 215 175.825 215 127.498C215 79.173 175.825 40 127.5 40C79.173 40 40 79.173 40 127.498Z" fill="url(#paint0_linear_80_21)"/>
+<g filter="url(#filter0_d_80_21)">
+<path d="M127.5 49.9121C83.8943 49.9121 48.5449 85.1085 48.5449 128.525C48.5449 171.942 83.8943 207.139 127.5 207.139V49.9121Z" fill="black"/>
+</g>
+<path d="M127.5 49.9121C83.8943 49.9121 48.5449 85.1085 48.5449 128.525C48.5449 171.942 83.8943 207.139 127.5 207.139V49.9121Z" fill="url(#paint1_linear_80_21)"/>
+</g>
+<defs>
+<filter id="filter0_d_80_21" x="20.5449" y="29.9121" width="118.955" height="197.227" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-8"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.25098 0 0 0 0 0.25098 0 0 0 0 0.25098 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_80_21"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_80_21" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_80_21" x1="8790" y1="17540" x2="8790" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#420C5D"/>
+<stop offset="1" stop-color="#951AD1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_80_21" x1="-3820.25" y1="15772.6" x2="-3820.25" y2="49.9121" gradientUnits="userSpaceOnUse">
+<stop stop-color="#420C5D"/>
+<stop offset="1" stop-color="#951AD1"/>
+</linearGradient>
+<clipPath id="clip0_80_21">
+<rect width="175" height="175" fill="white" transform="translate(40 40)"/>
+</clipPath>
+</defs>
+</svg>
