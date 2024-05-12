@@ -122,6 +122,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
 |      `clion`       |     <img src="./icons/CLion-Dark.svg" width="48">     |
+|      `clipstudio`  |     <img src="./icons/Clip-Studio.svg" width="48">    |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
@@ -305,6 +306,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `visualstudio`   | <img src="./icons/VisualStudio-Dark.svg" width="48">  |
 |       `vite`       |     <img src="./icons/Vite-Dark.svg" width="48">      |
 |      `vitest`      |    <img src="./icons/Vitest-Dark.svg" width="48">     |
+|      `vroid`       |    <img src="./icons/Vroid.svg" width="48">           |
 |      `vscode`      |    <img src="./icons/VSCode-Dark.svg" width="48">     |
 |     `vscodium`     |   <img src="./icons/VSCodium-Dark.svg" width="48">    |
 |       `vue`        |     <img src="./icons/VueJS-Dark.svg" width="48">     |

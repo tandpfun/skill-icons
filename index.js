@@ -41,6 +41,8 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
+  vroid: 'vroidstudio',
+  clipstudio: 'clipstudiopaint'
 };
 const themedIcons = [
   ...Object.keys(icons)
