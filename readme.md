@@ -268,6 +268,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `rollupjs`     |   <img src="./icons/RollupJS-Dark.svg" width="48">    |
 |       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
+|     `rubymine`     |   <img src="./icons/RubyMine-Dark.svg" width="48">    |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
