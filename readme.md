@@ -101,6 +101,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |       `arch`       |     <img src="./icons/Arch-Dark.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
+|     `aseprite`     |      <img src="./icons/Aseprite.svg" width="48">      |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |       `atom`       |        <img src="./icons/Atom.svg" width="48">        |
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
