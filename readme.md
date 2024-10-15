@@ -2,7 +2,6 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
 <hr>
-
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
 <h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
@@ -286,7 +285,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `solidjs`      |    <img src="./icons/SolidJS-Dark.svg" width="48">    |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
 |       `svg`        |      <img src="./icons/SVG-Dark.svg" width="48">      |
-|      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
+|      `swift`       |       <img src="./icons/Swift.svg" width="48"> 
+|     `swiftui`       |       <img src="./icons/swiftui.svg" height= "64" width="64">    
 |     `symfony`      |    <img src="./icons/Symfony-Dark.svg" width="48">    |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
@@ -323,6 +323,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
+
 
 ## 💖 Support the Project
 
