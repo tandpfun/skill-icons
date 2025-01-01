@@ -248,6 +248,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
+|      `pytest`      |    <img src="./icons/pytest.svg" width="48">          |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
 |        `r`         |       <img src="./icons/R-Dark.svg" width="48">       |
