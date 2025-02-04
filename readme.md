@@ -1,9 +1,12 @@
+
+
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<h4 align="center"><em>This is a fork of the <a href="https://github.com/tandpfun/skill-icons">original skill icons</a> since it has been abandoned.</em></h4>
+<h5 align="center">In process of bringing it back</p>
 <hr>
 
-<h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
 <h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
 
@@ -25,7 +28,7 @@
 
 Copy and paste the code block below into your readme to add the skills icon element!
 
-Change the `?i=js,html,css` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
+Change the `?i=js,html,css` to a list of your skills separated by "," or ", "! You can find a full list of icons [here](#icons-list).
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

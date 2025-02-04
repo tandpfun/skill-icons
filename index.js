@@ -112,7 +112,7 @@ async function handleRequest(request) {
 
     let iconShortNames = [];
     if (iconParam === 'all') iconShortNames = iconNameList;
-    else iconShortNames = iconParam.split(',');
+    else iconShortNames = iconParam.split(/,\s*/);
 
     const iconNames = parseShortNames(iconShortNames, theme || undefined);
     if (!iconNames)
