@@ -9,6 +9,7 @@ const shortNames = {
   nuxt: 'nuxtjs',
   go: 'golang',
   cf: 'cloudflare',
+  cv: 'canva',
   wasm: 'webassembly',
   postgres: 'postgresql',
   k8s: 'kubernetes',
