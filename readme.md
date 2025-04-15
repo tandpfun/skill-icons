@@ -207,6 +207,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
+|       `max8`       |     <img src="./icons/Max8-Dark.svg" width="48">      |
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
@@ -246,6 +247,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
+|     `PureData`     |      <img src="./icons/PureData-Dark.svg" width="48"> |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
@@ -255,6 +257,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
+|     `reaktor`      |     <img src="./icons/Reaktor-Dark.svg" width="48">   |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
