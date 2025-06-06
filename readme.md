@@ -284,6 +284,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
 |     `solidity`     |      <img src="./icons/Solidity.svg" width="48">      |
 |     `solidjs`      |    <img src="./icons/SolidJS-Dark.svg" width="48">    |
+|    `streamlit`     |   <img src="./icons/Streamlit-Dark.svg" width="48">   |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
 |       `svg`        |      <img src="./icons/SVG-Dark.svg" width="48">      |
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
