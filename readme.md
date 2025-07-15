@@ -89,6 +89,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
 |      `adonis`      |       <img src="./icons/Adonis.svg" width="48">       |
+|      `airflow`     |      <img src="./icons/Airflow.svg" width="48"> 
 |        `ae`        |    <img src="./icons/AfterEffects.svg" width="48">    |
 |     `aiscript`     |   <img src="./icons/AiScript-Dark.svg" width="48">    |
 |     `alpinejs`     |   <img src="./icons/AlpineJS-Dark.svg" width="48">    |
