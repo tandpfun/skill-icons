@@ -15,6 +15,7 @@
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+- [Read this guide in Persian (فارسی)](README.fa.md)
 
 # Example
 
