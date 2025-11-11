@@ -312,6 +312,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `wasm`       |    <img src="./icons/WebAssembly.svg" width="48">     |
 |     `webflow`      |      <img src="./icons/Webflow.svg" width="48">       |
 |     `webpack`      |    <img src="./icons/Webpack-Dark.svg" width="48">    |
+|     `webrtc`       |    <img src="./icons/WebRTC-Dark.svg" width="48">     |
 |     `webstorm`     |   <img src="./icons/WebStorm-Dark.svg" width="48">    |
 |     `windicss`     |   <img src="./icons/WindiCSS-Dark.svg" width="48">    |
 |     `windows`      |    <img src="./icons/Windows-Dark.svg" width="48">    |
