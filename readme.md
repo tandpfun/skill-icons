@@ -258,6 +258,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
+|      `reddit`      |    <img src="./icons/Reddit-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
