@@ -132,6 +132,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
+|      `delphi`      |    <img src="./icons/Delphi-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
 |     `discord`      |      <img src="./icons/Discord.svg" width="48">       |
@@ -197,6 +198,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
+|     `lazarus`      |    <img src="./icons/Lazarus-Dark.svg" width="48">    |
 |       `less`       |     <img src="./icons/Less-Dark.svg" width="48">      |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
