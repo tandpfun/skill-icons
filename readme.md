@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -321,6 +323,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+|       `shopify`    |  <img src="./icons/Shopify-Dark.svg" width="48">      |
 
 ---
 
