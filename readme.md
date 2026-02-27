@@ -150,6 +150,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
+|     `facebook`      |   <img src="./icons/Facebook.svg" width="48">   |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
 |      `figma`       |     <img src="./icons/Figma-Dark.svg" width="48">     |
@@ -270,6 +271,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
+|       `shadcnui`       |        <img src="./icons/ShadCnUi.svg" width="48">        |
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
