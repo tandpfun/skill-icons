@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="Layer_1" transform="matrix(1.971072, 0, 0, 1.971072, -451.910963, -122.302692)" style="">
+    <rect class="st0" width="256" height="256" style="stroke-width: 1;" x="228.027" y="59.695" rx="65.913" ry="65.913"/>
+    <line class="st1" x1="436.027" y1="187.695" x2="356.027" y2="267.695" style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 32; paint-order: fill; fill-rule: nonzero; fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+    <line class="st1" x1="420.027" y1="99.695" x2="268.027" y2="251.695" style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 32; fill: rgb(153, 183, 59); stroke: rgb(255, 255, 255);"/>
+  </g>
+</svg>

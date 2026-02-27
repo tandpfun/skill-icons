@@ -281,6 +281,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
 |      `sentry`      |       <img src="./icons/Sentry.svg" width="48">       |
 |    `sequelize`     |   <img src="./icons/Sequelize-Dark.svg" width="48">   |
+|      `shadcn`      |   <img src="./icons/Shadcn-Dark.svg" width="48">      |
 |     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
 |     `solidity`     |      <img src="./icons/Solidity.svg" width="48">      |
 |     `solidjs`      |    <img src="./icons/SolidJS-Dark.svg" width="48">    |
