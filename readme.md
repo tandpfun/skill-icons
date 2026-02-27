@@ -161,7 +161,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `gamemakerstudio`  |  <img src="./icons/GameMakerStudio.svg" width="48">   |
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
-|       `git`        |        <img src="./icons/Git.svg" width="48">         |
+|       `git`        |      <img src="./icons/Git-Dark.svg" width="48">      |
 |      `github`      |    <img src="./icons/Github-Dark.svg" width="48">     |
 |  `githubactions`   | <img src="./icons/GithubActions-Dark.svg" width="48"> |
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
