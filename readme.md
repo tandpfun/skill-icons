@@ -131,6 +131,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
+|     `dbeaver`      |     <img src="./icons/Dbeaver-Dark.svg" width="48">   |
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
@@ -293,6 +294,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |    `terraform`     |   <img src="./icons/Terraform-Dark.svg" width="48">   |
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
+|      `trello`      |    <img src="./icons/Trello-Dark.svg" width="48">     |
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `ubuntu`      |    <img src="./icons/Ubuntu-Dark.svg" width="48">     |
