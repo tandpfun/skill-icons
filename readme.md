@@ -210,6 +210,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
+|      `mssql`       |     <img src="./icons/MSSQL-Dark.svg" width="48">     |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
