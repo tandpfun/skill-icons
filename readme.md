@@ -117,6 +117,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
 |       `bun`        |      <img src="./icons/Bun-Dark.svg" width="48">      |
 |        `c`         |         <img src="./icons/C.svg" width="48">          |
+|     `compose`      |    <img src="./icons/Compose-Dark.svg" width="48">    |
 |        `cs`        |         <img src="./icons/CS.svg" width="48">         |
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
 |     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
