@@ -223,6 +223,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |     `obsidian`     |   <img src="./icons/Obsidian-Dark.svg" width="48">    |
+|      `odoo`        |   <img src="./icons/Odoo-Dark.svg" width="48">        |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
 |      `opencv`      |    <img src="./icons/OpenCV-Dark.svg" width="48">     |
