@@ -112,6 +112,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `bash`       |     <img src="./icons/Bash-Dark.svg" width="48">      |
 |       `bevy`       |     <img src="./icons/Bevy-Dark.svg" width="48">      |
 |    `bitbucket`     |   <img src="./icons/BitBucket-Dark.svg" width="48">   |
+|     `blazor`       |   <img src="./icons/blazor.svg" width="48">           |
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
 |    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
