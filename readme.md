@@ -6,7 +6,6 @@
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
 <h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
-
 # Docs
 
 - [Example](#example)
@@ -150,6 +149,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
+|      `excel`       |     <img src="./icons/Excel-Dark.svg" width="48">     |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
 |      `figma`       |     <img src="./icons/Figma-Dark.svg" width="48">     |
@@ -190,6 +190,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
+|       `JSON`       |     <img src="./icons/JSON-Dark.svg" width="48">      |
 |      `kafka`       |       <img src="./icons/Kafka.svg" width="48">        |
 |       `kali`       |     <img src="./icons/Kali-Dark.svg" width="48">      |
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
@@ -211,10 +212,13 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
+|     `mybatis`      |    <img src="./icons/Mybatis-Dark.svg" width="48">    |
+|   `mybatis-plus`   |  <img src="./icons/MybatisPlus-Dark.svg" width="48">  |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
 |     `netlify`      |    <img src="./icons/Netlify-Dark.svg" width="48">    |
 |      `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">     |
+|      `netty`       |     <img src="./icons/Netty-Dark.svg" width="48">     |
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |       `nix`        |      <img src="./icons/Nix-Dark.svg" width="48">      |
@@ -284,6 +288,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
 |     `solidity`     |      <img src="./icons/Solidity.svg" width="48">      |
 |     `solidjs`      |    <img src="./icons/SolidJS-Dark.svg" width="48">    |
+|    `springboot`    |  <img src="./icons/SpringBoot-Dark.svg" width="48">   |
+|   `springcloud`    |  <img src="./icons/SpringCloud-Dark.svg" width="48">  |
 |      `svelte`      |       <img src="./icons/Svelte.svg" width="48">       |
 |       `svg`        |      <img src="./icons/SVG-Dark.svg" width="48">      |
 |      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
@@ -318,9 +324,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
+|       `xml`        |      <img src="./icons/XML-Dark.svg" width="48">      |
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+
+
 
 ---
 
