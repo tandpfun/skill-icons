@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <!-- VB Icon Background -->
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+
+  <!-- VB Text -->
+  <text x="30%" y="52%" text-anchor="middle" alignment-baseline="middle" font-family="Arial" font-size="140" fill="#FFFFFF">V</text>
+  <text x="44%" y="68%" text-anchor="middle" alignment-baseline="middle" font-family="Arial" font-size="18" fill="#FFFFFF">isual</text>
+  <text x="70%" y="64%" text-anchor="middle" alignment-baseline="middle" font-family="Arial" font-size="140" fill="#FFFFFF">B</text>
+  <text x="70%" y="66%" text-anchor="middle" alignment-baseline="middle" font-family="Arial" font-size="18" fill="#FFFFFF">asic</text>
+</svg>
