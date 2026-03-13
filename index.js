@@ -50,15 +50,15 @@ const themedIcons = [
 
 const ICONS_PER_LINE = 15;
 const ONE_ICON = 48;
-const SCALE = ONE_ICON / (300 - 44);
 
-function generateSvg(iconNames, perLine) {
+function generateSvg(iconNames, perLine, iconSize) {
   const iconSvgList = iconNames.map(i => icons[i]);
 
   const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
   const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
-  const scaledHeight = height * SCALE;
-  const scaledWidth = length * SCALE;
+  const scale = iconSize / (300 - 44);
+  const scaledHeight = height * scale;
+  const scaledWidth = length * scale;
 
   return `
   <svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
@@ -109,6 +109,12 @@ async function handleRequest(request) {
       return new Response('Icons per line must be a number between 1 and 50', {
         status: 400,
       });
+    const iconSize = searchParams.get('iconsize') || ONE_ICON;
+    if (isNaN(iconSize)) {
+      return new Response('Icon size must be a number', {
+        status: 400,
+      });
+    }
 
     let iconShortNames = [];
     if (iconParam === 'all') iconShortNames = iconNameList;
@@ -120,7 +126,7 @@ async function handleRequest(request) {
         status: 400,
       });
 
-    const svg = generateSvg(iconNames, perLine);
+    const svg = generateSvg(iconNames, perLine, iconSize);
 
     return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
   } else if (path === 'api/icons') {
