@@ -292,6 +292,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |    `terraform`     |   <img src="./icons/Terraform-Dark.svg" width="48">   |
+|     `threads`      |    <img src="./icons/Threads-Dark.svg" width="48">    |
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
