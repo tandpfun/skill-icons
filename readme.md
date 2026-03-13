@@ -320,6 +320,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
+|       `zabbix`     |      <img src="./icons/Zabbix-Light.svg" width="48">  |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
