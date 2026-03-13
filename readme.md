@@ -321,7 +321,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
-
+|       `expo`        |      <img src="./icons/expo.svg" width="48">      |
 ---
 
 ## 💖 Support the Project
