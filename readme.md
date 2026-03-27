@@ -195,6 +195,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
+|     `langchain`    |    <img src="./icons/Langchain-Dark.svg" width="48">  |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
 |       `less`       |     <img src="./icons/Less-Dark.svg" width="48">      |
