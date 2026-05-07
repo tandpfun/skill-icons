@@ -261,6 +261,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
 |      `regex`       |     <img src="./icons/Regex-Dark.svg" width="48">     |
 |      `remix`       |     <img src="./icons/Remix-Dark.svg" width="48">     |
+|      `render`      |    <img src="./icons/Render-Dark.svg" width="48">     |
 |      `replit`      |    <img src="./icons/Replit-Dark.svg" width="48">     |
 |      `rider`       |     <img src="./icons/Rider-Dark.svg" width="48">     |
 |   `robloxstudio`   |    <img src="./icons/RobloxStudio.svg" width="48">    |
