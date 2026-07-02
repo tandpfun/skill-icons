@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- background -->
+  <rect width="128" height="128" rx="24" fill="#FF8C1A"/>
+
+  <!-- simple "cat face" approximation -->
+  <circle cx="64" cy="70" r="34" fill="#ffffff"/>
+
+  <!-- eyes -->
+  <circle cx="52" cy="65" r="4" fill="#FF8C1A"/>
+  <circle cx="76" cy="65" r="4" fill="#FF8C1A"/>
+
+  <!-- smile -->
+  <path d="M50 78 Q64 90 78 78" stroke="#FF8C1A" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- ears -->
+  <path d="M40 45 L50 25 L58 45 Z" fill="#ffffff"/>
+  <path d="M70 45 L78 25 L88 45 Z" fill="#ffffff"/>
+</svg>
