@@ -1,0 +1,29 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#F4F2ED"/>
+<g transform="translate(-145.6263,38.3183) scale(1.382579)">
+<defs xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="zephyrlight_a" x1="173.22662" y1="83.041153" x2="269.62073" y2="83.041153" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7929d2" />
+<stop offset="1" stop-color="#0070c5" />
+</linearGradient>
+<linearGradient id="zephyrlight_b" x1="179.78728" y1="-1.87884" x2="178.9799" y2="93.40757" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#00aeff" />
+<stop offset="1" stop-color="#9454db" />
+</linearGradient>
+<linearGradient id="zephyrlight_c" x1="232.84549" y1="37.632019" x2="212.26581" y2="1.98698" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#66a9dc" />
+<stop offset="1" stop-color="#b1e4fa" />
+</linearGradient>
+<linearGradient id="zephyrlight_d" x1="237.4232" y1="9.7026796" x2="249.11588" y2="90.576942" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#00aeff" />
+<stop offset="1" stop-color="#9454db" />
+</linearGradient>
+</defs>
+<g xmlns="http://www.w3.org/2000/svg">
+<polygon points="137.154,121.601 220.982,44.482 258.666,94.416" fill="url(#zephyrlight_a)" />
+<polygon points="137.154,121.601 172.959,8.13 220.982,44.482" fill="url(#zephyrlight_b)" />
+<polygon points="172.959,8.13 258.666,8.13 220.982,44.482" fill="url(#zephyrlight_c)" />
+<polygon points="258.666,94.416 258.666,8.13 220.982,44.482" fill="url(#zephyrlight_d)" />
+</g>
+</g>
+</svg>

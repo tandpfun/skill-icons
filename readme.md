@@ -101,6 +101,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |       `arch`       |     <img src="./icons/Arch-Dark.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
+|    `ardupilot`     |   <img src="./icons/ArduPilot-Dark.svg" width="48">   |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |       `atom`       |        <img src="./icons/Atom.svg" width="48">        |
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
@@ -160,6 +161,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `fortran`      |      <img src="./icons/Fortran.svg" width="48">       |
 | `gamemakerstudio`  |  <img src="./icons/GameMakerStudio.svg" width="48">   |
 |      `gatsby`      |       <img src="./icons/Gatsby.svg" width="48">       |
+|      `gazebo`      |    <img src="./icons/Gazebo-Dark.svg" width="48">     |
 |       `gcp`        |      <img src="./icons/GCP-Dark.svg" width="48">      |
 |       `git`        |        <img src="./icons/Git.svg" width="48">         |
 |      `github`      |    <img src="./icons/Github-Dark.svg" width="48">     |
@@ -197,6 +199,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
+|     `leetcode`     |   <img src="./icons/LeetCode-Dark.svg" width="48">    |
 |       `less`       |     <img src="./icons/Less-Dark.svg" width="48">      |
 |     `linkedin`     |      <img src="./icons/LinkedIn.svg" width="48">      |
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
@@ -208,6 +211,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
+|  `missionplanner`  |<img src="./icons/MissionPlanner-Dark.svg" width="48"> |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
@@ -230,6 +234,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
+|    `platformio`    |  <img src="./icons/PlatformIO-Dark.svg" width="48">   |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 |     `phpstorm`     |   <img src="./icons/PhpStorm-Dark.svg" width="48">    |
@@ -246,9 +251,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
+|       `px4`        |      <img src="./icons/PX4-Dark.svg" width="48">      |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
+|  `qgroundcontrol`  |   <img src="./icons/QGroundControl.svg" width="48">   |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
 |        `r`         |       <img src="./icons/R-Dark.svg" width="48">       |
 |     `rabbitmq`     |   <img src="./icons/RabbitMQ-Dark.svg" width="48">    |
@@ -273,6 +280,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
+|      `stm32`       |     <img src="./icons/STM32-Dark.svg" width="48">     |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
@@ -320,6 +328,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
+|      `zephyr`      |    <img src="./icons/Zephyr-Dark.svg" width="48">     |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
