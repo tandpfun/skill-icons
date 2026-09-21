@@ -174,6 +174,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `graphql`      |    <img src="./icons/GraphQL-Dark.svg" width="48">    |
 |       `gtk`        |      <img src="./icons/GTK-Dark.svg" width="48">      |
 |       `gulp`       |        <img src="./icons/Gulp.svg" width="48">        |
+|     `haproxy`      |    <img src="./icons/HAProxy-Dark.svg" width="48">    |
 |     `haskell`      |    <img src="./icons/Haskell-Dark.svg" width="48">    |
 |       `haxe`       |     <img src="./icons/Haxe-Dark.svg" width="48">      |
 |    `haxeflixel`    |  <img src="./icons/HaxeFlixel-Dark.svg" width="48">   |
@@ -183,6 +184,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
+|     `influxdb`     |   <img src="./icons/InfluxDB-Dark.svg" width="48">    |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
@@ -202,6 +204,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `linux`       |     <img src="./icons/Linux-Dark.svg" width="48">     |
 |       `lit`        |      <img src="./icons/Lit-Dark.svg" width="48">      |
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
+|       `lxc`        |      <img src="./icons/LXC-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
@@ -215,6 +218,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
 |     `netlify`      |    <img src="./icons/Netlify-Dark.svg" width="48">    |
 |      `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">     |
+|      `nexus`       |     <img src="./icons/Nexus-Dark.svg" width="48">     |
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
 |       `nix`        |      <img src="./icons/Nix-Dark.svg" width="48">      |
@@ -228,6 +232,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `opencv`      |    <img src="./icons/OpenCV-Dark.svg" width="48">     |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
+|    `opnsense`      |   <img src="./icons/OPNsense-Dark.svg" width="48">    |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
@@ -290,6 +295,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `symfony`      |    <img src="./icons/Symfony-Dark.svg" width="48">    |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
+|    `telegraf`      |   <img src="./icons/Telegraf-Dark.svg" width="48">   |
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |    `terraform`     |   <img src="./icons/Terraform-Dark.svg" width="48">   |
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
