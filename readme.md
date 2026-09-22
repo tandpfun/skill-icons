@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -124,9 +126,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `clion`       |     <img src="./icons/CLion-Dark.svg" width="48">     |
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
+|    `cloudinary`    |  <img src="./icons/Cloudinary.svg" width="48">        |
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
+|   `contentful`     | <img src="./icons/Contentful.svg" width="48">         |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 |     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
@@ -269,6 +273,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `ros`        |      <img src="./icons/ROS-Dark.svg" width="48">      |
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
+|       `sanity`     |        <img src="./icons/Sanity.svg" width="48">      |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
