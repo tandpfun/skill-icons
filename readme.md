@@ -112,6 +112,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `bash`       |     <img src="./icons/Bash-Dark.svg" width="48">      |
 |       `bevy`       |     <img src="./icons/Bevy-Dark.svg" width="48">      |
 |    `bitbucket`     |   <img src="./icons/BitBucket-Dark.svg" width="48">   |
+|       `bjc`        |      <img src="./icons/BJC-Dark.svg" width="48">      |
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
 |    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
@@ -168,6 +169,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gmail`       |     <img src="./icons/Gmail-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|  `googlescholar`   | <img src="./icons/GoogleScholar-Dark.svg" width="48"> |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
@@ -181,6 +183,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `hibernate`     |   <img src="./icons/Hibernate-Dark.svg" width="48">   |
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
+|   `huggingface`    | <img src="./icons/HuggingFace-Dark.svg" width="48">   |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
