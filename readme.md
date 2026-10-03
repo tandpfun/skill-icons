@@ -96,6 +96,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `androidstudio`   | <img src="./icons/AndroidStudio-Dark.svg" width="48"> |
 |     `angular`      |    <img src="./icons/Angular-Dark.svg" width="48">    |
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
+|   `antigravity`    |   <img src="./icons/Antigravity-Dark.svg" width="48"> |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |      `apple`       |     <img src="./icons/Apple-Dark.svg" width="48">     |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
@@ -131,6 +132,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
+|  `davinciresolve`  | <img src="./icons/DaVinciResolve-Dark.svg" width="48">|
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
@@ -296,6 +298,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `ubuntu`      |    <img src="./icons/Ubuntu-Dark.svg" width="48">     |
+|      `uipath`      |     <img src="./icons/UiPath-Dark.svg" width="48">    |
 |      `unity`       |     <img src="./icons/Unity-Dark.svg" width="48">     |
 |      `unreal`      |    <img src="./icons/UnrealEngine.svg" width="48">    |
 |        `v`         |       <img src="./icons/V-Dark.svg" width="48">       |

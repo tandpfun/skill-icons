@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <defs>
+    <linearGradient id="antigravityGrad" x1="2" y1="21" x2="21" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A73E8"/>
+      <stop offset="30%" stop-color="#8E24AA"/>
+      <stop offset="65%" stop-color="#E53935"/>
+      <stop offset="100%" stop-color="#FBBC04"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(128, 128) scale(7.8) translate(-11.5, -11.5)">
+    <path fill="url(#antigravityGrad)" d="M20.845 21.606c1.284.963 3.21.321 1.445-1.445C16.993 15.026 18.116.9 11.535.9 4.955.9 6.078 15.025.781 20.162c-1.926 1.926.16 2.407 1.444 1.444 4.976-3.37 4.655-9.31 9.31-9.31s4.334 5.94 9.31 9.31"/>
+  </g>
+</svg>
