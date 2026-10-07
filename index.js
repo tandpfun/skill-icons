@@ -41,6 +41,14 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
+  hf: 'huggingface',
+  lc: 'langchain',
+  rr: 'reactrouter',
+  mssql: 'mssqlserver',
+  sqlserver: 'mssqlserver',
+  davinci: 'davinciresolve',
+  scholar: 'googlescholar',
+  fm: 'framermotion',
 };
 const themedIcons = [
   ...Object.keys(icons)
