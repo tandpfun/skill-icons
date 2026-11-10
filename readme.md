@@ -13,6 +13,7 @@
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
+- [Icon Size](#icon-size)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
 
@@ -60,6 +61,18 @@ Change the `&perline=3` to any number between 1 and 50.
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+# Icon Size
+
+You can customize the size of the icons! It's an optional argument, and the default is 48.
+
+Change the `&size=35` to any number between 20 and 100.
+
+```md
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript&size=35)](https://skillicons.dev)
+```
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript&size=35)](https://skillicons.dev)
 
 # Centering Icons
 
